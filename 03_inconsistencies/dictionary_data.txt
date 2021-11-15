@@ -1,0 +1,5 @@
+{"name": "Nikhil", "temp": "97.4"}
+{"name": "Sayar", "temp": "97.2"}
+{"name": "Himu", "temperature": "97.6"}
+{"name": "Kripa", "temp": "97.1"}
+{"name": "Ujwal", "temp": "97.9"}
