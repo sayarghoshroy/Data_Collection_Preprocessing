@@ -1,0 +1,431 @@
+Executive Briefing Service Growing Enterprise Revenues 
+Executive Briefing THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS 
+It’s hard to make things work in the IoT. This report outlines why, what is needed, and current leading-edge efforts to achieve it. To deliver the benefits of the Coordination Age, all manner of "things" will need to be able to discover each other and communicate more autonomously. For this to happen easily and securely a new enabler is needed: the Internet for Things (I4T). 
+Andrew Collinson, Partner and Research Director  |  andrew.collison@stlpartners.com  |  May 2019 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Executive Summary 
+The Internet for Things (I4T) will unlock a new wave of economic development The Internet was a powerful enabler of innovation and disruption in the Information Age because it allowed so many different players to discover each other and connect in totally new and often unexpected ways with very little friction. 
+A new enabler is now needed in the Coordination Age: the Internet for Things (I4T). This will perform a similar function to the Internet, but broaden the range of ‘things’ that can connect and interact with each other to include e.g. sensors, IT systems, companies, databases, people, machinery, lights, etc. 
+This report draws two key conclusions on why we need an Internet for Things, and how it will develop: 
+1. Today’s Internet of Things (IoT) infrastructure is insufficient: The IoT as typically described today is a world of many silos, where partially interconnected things lack the ability to connect easily and securely across those silos when needed. To realise the full potential value of connecting all kinds of things, we need new tools to coordinate telecoms and Internet infrastructure across those silos. 
+2. The development of the I4T will be driven by businesses: The ultimate purpose of the I4T is to allow stuff made or operated by different companies to connect and communicate meaningfully with each other. Consumers will value the benefits of this as much as enterprises, but the onus will be on businesses to make it happen – in pursuit of a better customer experience – so most I4T interactions will have to be created at a business-to-business-to-other (B2B2X) level.  
+It’s possible but not practical today Most IoT silos can be programmed to connect with each other, and the most advanced offer some interconnectivity through APIs. However this is an expensive and time-consuming process, and typically works only for single specified applications. Every connection is effectively bespoke and a long way from an automatic, low-friction solution. 
+Complex activities and ecosystems like smart cities can be coordinated too, but this typically requires a ‘master coordinator’ – a company or organisation that takes an over-arching and controlling role. This can be both unpopular and inefficient, as the sub-ordinated companies resent the loss of autonomy and the master coordinator requires exceptional knowledge, agility and finesse to succeed. The commissioning body, for instance a city council, also risks getting locked into a system that may be difficult to adapt to new needs over time. 
+Standardisation could help ease interconnectivity, but standardisation is a notoriously long and complex road, and typically works best for activities in a mature market where needs and requirements are well understood. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Why “of” needs to become “for” At present the main focus of industry is the Industrial Internet of Things (IIoT), but the purpose of the IIoT is mainly to connect and integrate companies’ internal (endogenous) data sources and devices. The I4T will be an ecosystem joining and building on these existing capabilities – with the purpose of enabling B2-any-B2-any-X. 
+As noted above, the major challenge to overcome in connecting external (exogenous) data sources and actors is agility of interoperation. There is too much friction in the two existing methods – standards or bespoke solutions. 
+Finding a simpler and more universal solution to this problem is essential to making the leap from the IoT, which makes existing individual processes more efficient, to the I4T, which will allow businesses to coordinate multiple processes and develop entirely new processes and services. 
+By making it easier to bridge siloes, the I4T will enable businesses to gain much richer context about their operating environment – who else is operating in it, what services they provide, what patterns they have spotted, how those could affect what’s happening. This will drive much more accurate and informed decision-making, for everything from supply chain management, to infrastructure management, to smart homes. 
+The sheer volume of interactions means humans will not be able to manage or monitor them all, so the Internet for Things also gives connected things (in the broadest definition of ‘thing’) the ability and autonomy to make (some) decisions for us. In this sense, it is an evolution from the Internet, which is for people to do things more efficiently for themselves. 
+In industry, the strongest initial needs driving such solutions are in areas with high value but relatively temporary needs such as emergency services and construction. These two in particular stand out because their needs relate to critical human safety, yet current solutions remain unreliable. 
+Escaping the barrier of platform dominance It’s become an implicit mantra of modern management philosophy that being the dominant platform owner is a strategic nirvana in the GAFA playbook. 
+It’s certainly good for the dominant platform owner. The problem is, it’s not necessarily that good for everyone else in the economy. The clue is in the word dominant. It means that others are out of control of their own destiny, and that is not an aspiration for many individuals or organisations. 
+In a nutshell: nobody particularly wants to be coordinated by someone else. 
+Plus in practical terms, there are simply probably too many vested interests and embedded systems for a single dominant platform play. Pretty much everyone in the IT business is involved somewhere, from the Internet/cloud players (e.g. Google, Amazon, etc.), major IT players (e.g. Oracle, IBM, etc.), industrial specialists (e.g. GE, Schneider Electric, PTC, etc.), and so on. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Each has their own angles and strengths, and many have deep and hard to replicate specialisms and industry relationships. Yet none are ideally placed or suited to deliver or manage an I4T interface, partly because other players won’t want to cede ground to them, and partly because they are simply not today in business or designed as organisations to do this. 
+But how to open up without giving everything away? The key challenge is how to open interactions between existing networks and platforms in a managed way. It remains uncertain exactly how this will be achieved, although there are two types of organisations currently driving efforts in this direction: 
+1. Various interoperability forums, such as the World Wide Web Consortium (W3C), are trying to establish standard practices. In our view, these are unlikely to work in the short term, if ever. 
+2. An emerging category of translators / facilitators focused on making IoT data more searchable, 
+and developing easy solutions for managing access rights. A key technology these companies are leveraging that may catalyse a true I4T is digital twins. Today, digital twins are primarily used to make industrial processes more visible and cost-efficient. But by creating a layer between the actual ‘thing’ and other participants in a connected ecosystem, digital twins may be able to deliver the optimal balance between security and openness. The I4T may therefore materialise in the form of ‘dating services for digital twins’. Pioneers in this space include Iotic Labs and Thingful. 
+Is there an opportunity for telcos? This report outlines specific drivers and use-cases for the Internet for Things, and gives a brief overview of interoperability forums and pioneers in the field of ‘dating services for digital twins’, either or both of which may create the I4T… or not. 
+The next questions that this analysis raises are: 
+• Do telcos have a role here beyond connectivity? 
+• How much of an opportunity for telcos is the Industrial Internet of Things? 
+• What should telcos do as a consequence? 
+Helping ‘things’ find and communicate with each other sounds like it could be a telco role. But it is unclear yet if that’s realistic. After all, telcos don’t do this in the Internet. 
+Either way, telcos should be aware of the possibilities of the Internet for Things, as it will become a major enabler in the digital economy overall. STL Partners therefore plans further reports on: 
+• The options for telcos and others in the Internet for Things 
+• The Industrial Internet of Things: how it’s evolving and what the opportunity is 
+• Digital Twins: What they are, why they matter, and what to do 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Table of Contents 
+Executive Summary ............................................................................................................................................... 2 
+Introduction ............................................................................................................................................................. 7 
+Credits .................................................................................................................................................................. 7 
+The Internet for Things and the Coordination Age ....................................................................................... 7 
+How does an “Internet for Things” fit with this? ........................................................................................... 9 
+What’s wrong with the Internet of Things? .................................................................................................. 10 
+The essential components of an Internet for Things ................................................................................ 10 
+What is the Internet for Things (I4T)?............................................................................................................... 12 
+How is an Internet for Things different to an Internet of Things? ........................................................... 12 
+Advantages – what can the “Internet for Things” offer? ........................................................................... 13 
+What problems does the I4T solve? ................................................................................................................. 15 
+Problem 1: The use case paradox ................................................................................................................. 15 
+Problem 2: No one really wants to be coordinated by someone else .................................................... 17 
+Problem 3: A classic case of warehouse interruptus ................................................................................ 18 
+Two approaches to creating the I4T…so far ................................................................................................... 21 
+Interoperability forums .................................................................................................................................... 21 
+Dating services for digital twins .................................................................................................................... 22 
+Civil engineering: Making all the pieces work together in real life ........................................................... 26 
+Conclusions: It’s a tough job – but somebody’s got to do it ........................................................................ 29 
+Index ....................................................................................................................................................................... 30 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Table of Figures 
+Figure 1: The three ages of telecoms / ICT ....................................................................................................... 8 
+Figure 2: The well-worn path of slowing telecoms growth ............................................................................ 9 
+Figure 3: Some examples of what a “thing” can be ....................................................................................... 12 
+Figure 4: Players in the logistics ecosystem example .................................................................................. 19 
+Figure 5: Three functions of digital twins ........................................................................................................ 23 
+Figure 6: A possible Internet for Things (I4T) ecosystem ............................................................................ 24 
+Figure 7: Iotic Labs “Lego” .................................................................................................................................. 26 
+Figure 8: BAM Nuttall and Iotic’s learning camera application to monitor machines ............................. 28 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Introduction 
+Credits 
+The reports analysis and conclusions are the author’s own. I’d also like to thank STL Partners’ consulting team, who were kind enough to share some of their research learnings on enterprise applications of digital twins. I would also like to credit and thank Bob Machin, formerly of CSG and now of Matrixx, who did some of the initial research and writing. 
+The Internet for Things and the Coordination Age 
+In our recent research report The Coordination Age: A third age of telecoms, STL Partners described how the global economy is moving into a new age: the Coordination Age. 
+This is driven by a global need to improve the efficiency of resource utilisation, arising from a combination of developments in both demand and supply. In terms of demand, there are pressing needs from all customers to make less do more. On the supply side, technologies like AI, automation, ‘digitisation’, NFV/SDN, and potentially 5G, provide a smarter and more flexible way to do things. 
+The consequence is that coordination is the job that needs to be done across many market areas. People, things and information need to be brought together at the right time and in the right place to deliver the desired outcome. 
+Examples include: 
+• Smart home: devices, sensors, appliances and applications created by many different 
+companies need to be coordinated into an easy-to-manage solution for consumers (see our latest report Can telcos create a compelling smart home?) 
+• Healthcare: where clinicians, patients, treatments, resources and information need to be 
+coordinated for successful healthcare outcomes (see Telcos in health – Part 1: Where is the opportunity? and Part 2: How to crack the healthcare opportunity) 
+• Transport: coordination is needed to manage transport flows for both public and private 
+transportation, to ensure the best use of available resources and where to direct investment most effectively 
+• 
+• 
+Logistics: to manage the distribution and delivery of stock and produced goods across highly complex, international supply chains 
+Industry: to ensure that manufacturing and supply-chain processes deliver, assemble and process goods and materials efficiently 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+The best description we’ve come up with for the common need across these areas is “to make our world run better”. It’s not a generic do-gooding mission, it’s about improving what people and companies get for their time, money, effort and attention. 
+It’s an over-arching principle (or meta-trend) that makes sense of, and gives direction to, the many technology led ideas like “Internet of Things”, "Industry 4.0", and others.  
+But … so what? It matters because to have a winning strategy first requires a superior (or at least appropriate) mental grasp of the environment, or frame of reference, for that strategy. 
+Put another way, if you don’t understand how the new game is being played, how can you possibly win? 
+Telcos frequently missed this trick in the previous 30-year transition into the Information Age. 
+Figure 1: The three ages of telecoms / ICT 
+Source: STL Partners 
+Over the last 30 years, telcos have continued to think, talk and act like network builders. Consequently, telcos did well out of the broadband and mobile data revolution, but they largely missed out on the services that make use of the raw connectivity and turn it into something more useful. 
+There are numerous examples of changes the Information Age brought to communications, information discovery, and commerce. These new ways of doing things have ultimately been dominated by other players, like Google, Facebook, Apple, Alibaba and Amazon. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Sometimes, when telcos spotted those opportunities, they missed out because they applied old-style business model approaches in the new world. For example, they often tried to make payments and early information products walled gardens and/or failed to grasp the need to collaborate with others to create a proposition with sufficient scale in practice (e.g. see Apple Pay & Weve Fail: A Wake Up Call). 
+We discuss the reasons why telcos missed opportunities in more depth in our report How the coordination age changes the game. 
+Now that growth is reaching the end of its cycle in communications (see Figure 2) telcos have a simple choice: stay as a pure connectivity player in a flat or declining market or develop new service propositions in addition. 
+Figure 2: The well-worn path of slowing telecoms growth 
+Source: STL Partners 
+Whichever route they choose (connectivity only, or connectivity plus services), to succeed and grow going forward, telcos need to rethink their purpose and role in the economy. 
+How does an “Internet for Things” fit with this? 
+From about 1990 onwards, the internet was the catalyst for change and growth in the Information Age. By making a huge trove of new information – the World Wide Web – accessible and discoverable, and enabling the delivery of data at volume, it ultimately unlocked new business models, huge disruption, and digital transformation across the entire global economy. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+To move into the next age – the Coordination Age – a similar concept and mechanism is needed to be able to discover and access connected things1. 
+What’s wrong with the Internet of Things? 
+There’s a catch with what is currently called the ‘Internet of Things’: it isn’t an internet. It isn’t even a continuous network, and as such is severely limited in its capacity to grow, evolve in intelligence and capability, and deliver the benefits sought. 
+The Internet of Things (IoT) originated as concept around the turn of the century and has been widely discussed since the early 2010s. Over that time many thousands of ‘smart devices’ and machine to machine (M2M) applications have been developed, creating efficiencies and enhancing functionality in industries as diverse as agriculture, logistics, transportation and medicine. Such applications continue to increase and are often described as ‘the IoT’. 
+However, most current applications are in reality closed (and private) command and control solutions using standalone technology to limited ends – typically to enhance existing industrial, business or lifestyle functions – such as crop-watering applications that only turn on when the ground is dry, or lifestyle apps like Nest that allow remote control of household functions. 
+In fact, most of what is commonly referred to as ‘IoT’ is simply an effective use of ICT, contributing to a growing world of connected things – but not constituting ‘an internet’, which is a searchable network of networks that allows users to find and connect to any end-point for which they have appropriate access2. 
+There’s a second problem. What’s really needed is not just an Internet of Things, but an “Internet for Things”. Interestingly, in one of the first mentions of the concept, that is precisely what it was called. 
+"We need an internet for things, a standardized way for computers to understand the real world," 
+Kevin Ashton, Auto ID Center at MIT from 19993 
+The reason STL Partners thinks an Internet for Things (I4T) is a more useful concept today, is that to make some of the most complex and dynamic applications of the Coordination Age work, “things”, including not just sensors but also IT systems, will need to be able to find and communicate with each other relatively autonomously. 
+The essential components of an Internet for Things 
+A true Internet for Things, would be much more open than most current IoT systems, and would: 
+1A suitable level of security and manageability is obviously required too. More on this later. Places on the Internet may be freely viewable to all comers or need permissions such as user IDs and passwords, for example. Kevin Ashton was a Procter & Gamble Executive who headed the MIT Center at the time:  https://www.forbes.com/global/2002/0318/092.html#7a164e0f3c3e. He is regarded as the author of the term “The Internet of Things”, https://iot-analytics.com/internet-of-things-definition/ 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+• Allow discovery of previously unknown sources (e.g. through a search engine), and interactions 
+between communities of things within public or private domains. 
+• Allow ‘things’ (including IT processes and software as well as devices) to discover each other within certain predefined rules or protocols, rather than either being given carte blanche to talk with any strange device, or being firmly controlled by a single, central authority. 
+• Contain data that is published, searchable, and accessible to anyone – or anything – with the appropriate security access. It would bring data from machines, sensors and other intelligent things into the sharing economy and semi-public domain. 
+It could also open the door to much more radical initiatives that would combine data from multiple sources to deliver outcomes as yet unconceived of – perhaps triggering further revolutions in terms of efficiency, productivity and innovation. 
+So why isn’t there an Internet for Things that works more like the world-wide web, but in a machine-based context? 
+Many companies implicitly recognise the limitations of today’s IoT and are working on solutions to overcome them, some of which are covered in this report, while others will be examined in upcoming reports on Digital Twins and the Industrial Internet of Things (IIoT). This report details further what an Internet for Things is, how it differs from what is described as the Internet of Things, its benefits, and some of the steps that have so far been taken towards it. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+What is the Internet for Things (I4T)? 
+How is an Internet for Things different to an Internet of Things? 
+Before considering what it would take to create an Internet for Things, it is useful to understand what is currently meant by the expression the “Internet of Things” (IoT). 
+First, what is a “thing”? The classic concept of an IoT “thing” is a sensor, or a connected device like a doorbell or machine in a factory. In STL Partners’ view this definition is too limited for the range of real world applications, and the “thing” being connected may be, for example: 
+• 
+• 
+• 
+• 
+a bit of data from a single sensor (e.g. the temperature measured by a given sensor, on an aircraft, at a specific time) 
+an aggregated result from a set of sensors (e.g. the average temperature near to a runway in an airport) 
+an industrial process (e.g. a status check on the maintenance needs on an aircraft’s tyres) 
+a consumer process (e.g. an app predicting the likely time of arrival of a flight). 
+Figure 3: Some examples of what a “thing” can be 
+All of these are effectively “things” and their operators may need or wish to share or access this data at any time. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+Source: STL Partners 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+The Internet of Things Most simple definitions of the IoT describe the connection across the internet of computing devices embedded in everyday devices and machines, such as sensors and actuators, enabling them to send and receive data, be monitored, adjusted, switched on and off and so on. 
+This describes something like conventional point-to-point or client/server communications than the Internet with which most people are familiar via the world-wide web. The Internet is a relatively open space, in which participants and resources can be identified in various searchable ways – through IP addresses, email addresses, URLs etc. – and located and engaged with. 
+is more 
+that 
+The openness of the world-wide web makes the volume and nature of possible connections between IP-enabled entities almost infinite. The interactivity between connected things in the IoT, on the other hand, is generally much more limited. It might be better described currently as a world of partially connected things. 
+What is an “Internet for Things” (I4T)? STL’s definition of an ‘Internet for Things’ is as follows:  
+The Internet for Things (I4T) is an open network of participatory, connected devices, objects, processes and entities. I4T entities can be located and interacted with according to their assigned security and privacy settings. 
+Advantages – what can the “Internet for Things” offer? 
+An Internet for Things would not just be a collection of smart devices. It would be a digital enabling fabric for wholly new functionality, of potentially great benefit to individuals, enterprises and our environment. 
+• An Internet for Things would allow data to be combined and enriched in previously inconceivable 
+ways – mashing up intelligence from different and seemingly unconnected sources for informational, security and commercial purposes.  
+• 
+It would enable more meaningful machine to machine conversations. One device might offer enhanced functionality by deriving important contextual information from other communicable entities or devices in its environment. 
+− To take a simple example, an in-building climate controller might offer more accurate control based on data taken from security devices, if it could combine data from sources within its network, such as security devices and thermostats, with external sources such as personal smartphones and smart watches, to determine which parts of the building should be heated/cooled, or local weather forecasts, in order to adjust settings in anticipation of changing temperatures. 
+• 
+It would trigger a leap in the volume and quality of intelligence available to individuals and agencies. All kinds of “things” – buildings, vehicles, infrastructure elements, people – become 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+data points and data sources, some static, some mobile, all contributing to a vast, searchable pool of crowd-sourced information. This could be mashed and downloaded on demand to create new intelligence for users working in areas unrelated to the source data – e.g. climate data being a driver for predicting cinema attendance figures, in turn used to review film release dates, trigger ice-cream orders and so on.4  
+• The potential of the Internet for Things is emerging just as the world is facing massive 
+challenges in terms of the use of its resources as we’ve outlined in The Coordination Age: A Third Age for telecoms. These resources and issues range from industrial productivity, climate change, water shortages, major weather events, the move to renewable sources of energy, air pollution and garbage disposal, to name only a few. 
+One key challenge with making the I4T work well will be in determining how to the “things” know what is valuable information that should be included in a decision, versus what is superfluous or even detrimental. This is a big challenge in AI in general – when machines are more autonomous, how do we ensure that they are not perpetuating and enhancing our human biases? How do we express the desired outcome clearly, so that there aren’t unintended consequences? While we do not explore this risk further in this report, we recognise that it is an unavoidable challenge of a more connected and autonomous world. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+What problems does the I4T solve? 
+In this section, we consider some of the general problems that occur today in the processes of innovation and coordination. These are what we see as the fundamental needs of the market – and those that an Internet for Things would help solve. 
+To bring it to life, we use a number of different examples based on real-world needs and applications to illustrate a very small slice of the many different possibilities. 
+Problem 1: The use case paradox 
+A classic way of understanding a potential new technology or idea is to articulate use cases – real or hypothetical examples of the type of problems that it will solve. 
+For the I4T, it is possible to identify lots of use cases. But there is a problem: each use case tends to lead to consideration of a highly bespoke solution and ecosystem. 
+For example, the management of all street lighting in the City of London and Westminster has been outsourced by the Council to 3P energy management company. The original aim (or use case) was to save money and any data from the lighting systems simply go into a big 3P silo. If the council now wants to turn the lights on for a special event, it needs to contact the energy management company to ask them to turn them on. This was never envisaged when the original needs were specified, so requires a lengthy ad-hoc manual process. 
+The use-case approach can also lead to an inadvertent focus on one area or market. The example above is a classic business use case. But what if the council wanted to make its lighting data available to other boroughs or departments, for example if the police wanted to gain a better understanding of the link between lighting and crime? By only thinking about narrow business use cases, you could miss an entire field of possible applications. 
+So while a useful tool in thinking through applications of a new technology, the use case approach can accidentally be self-defeating, and lead to multiple innovation and ecosystem cul-de-sacs. That doesn’t mean that solutions built on use cases don’t work and can’t be valuable, but that they are often only a first step in development. Needs will evolve, and closed, inflexible solutions that can only serve the initially anticipated need will usually be out-evolved by a more open system. 
+This is analogous to the Internet. If, back in the 1980s, you’d tried to specify the Internet’s use case, it would look nothing like the Internet looks today. And you might have also argued that your organisation’s closed IT system already solved that problem. 
+The primary problems that the Internet solved are: 
+1. Discovery of information. You can now find a vast variety of information from diverse sources, and if your first choice of information doesn’t work, you typically have multiple alternatives that may be better suited. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+2. Delivery of data in many different formats (text, video, audio, different file types, etc.). 
+Over time, these capabilities have been combined in ways that have led to a massive profusion of new businesses and new business models. Direct retail to consumer existed5 before the Internet, but the Internet took it to a completely new level. Nobody was able to second guess these benefits and applications – the diversity of the new world it created was just too rich and complicated for all the possibilities to be thought through. It has taken 30 years to get to where we are today – and the pace of change and innovation is still staggeringly fast. 
+The point is the slightly mind-bending paradox that describing specific problems hides the over-arching opportunity. 
+Uncooking the IT spaghetti you just ordered To see how the existing approach of defining system needs through specific use cases is failing, consider the following thought-experiment, loosely based on real-life situations. 
+Consider a local council. One of its departments has approved roadworks on a cable project. In another department, a sub-contracted case worker needs to get to a vulnerable pensioner with heavy care equipment from the hospital. Where can they park without getting a ticket? 
+You ask the IT department to put a system in place. The IT department needs to know exactly who, in which care company, and how to access their data. They need to access the local car park owner’s data too, and the hospital’s data – when, where and how is the equipment going to be available. Plus, where are the roadworks exactly, and where are the restrictions? This may be in council data, and/or there may need to be an update to or from the cable company contractor who is actually digging the roads to let them through. 
+What format should the data be in? What is the security needed on each piece of data? Some providers can’t pass on some of their data unless they know what it’s going to be used for, and the compliance of partner systems. 
+Let’s say the system to manage parking rights for social care support initially costs £1.8m, but you need to make changes because you didn’t specify it accurately, which costs another £0.5m. 
+This is an illustrative picture. The reality is that there are many millions of these types of coordination issues to solve even just for one council, but the complexity and difficulty of solving the problem using current approaches is nightmarish, and many such projects fail. 
+There needs to be a way to accurately and securely model all these complex relationships, but at low cost and without sharing the confidential data. Ideally, if the right data is available to be shared, then the council’s millions of issues can be addressed – and who knows what else beyond the council’s needs? Delays to couriers, school journeys, doctors’ visits, travel to work, etc. 
+For example, catalogue retail from high street retailers and others. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Imagine if public transport, cars, bikes and pedestrians can access and inter-relate with it too. What other services could be created? What other data could be added? And beyond that, what about retailers, outdoor attractions? Services on air pollution, congestion. What else? 
+These ideas are not new, but there is currently no realistic and economic way of achieving them. 
+The project to solve project problems Going back to the imaginary council, it’s not hard to foresee that at some point after our first project comes to an end, another project is started to grant a building contractor access to a site that requires heavy traffic to turn through a busy school entrance. 
+This brings into play another set of companies, organisations, confidential data and issues, and nothing from the first project that is any use whatsoever. We’re either back on the IT spending bandwagon or the inefficient and slow paper route. 
+Most councils across the world face significant cost and efficiency pressures. But the use case led approach is creating unwieldy and costly IT systems that aren’t helping as much as they might. 
+Problem 2: No one really wants to be coordinated by someone else 
+Another classic way to think about solving the coordination problem is the smart city. In this, a consortium of good folks all gather together to make a city work in a more efficient way6. 
+A great idea, and a superb test-bed for a lot of current thinking. The problem is, it all ends up creating a huge data lake, out of which someone has to extract sense and a degree of order. 
+Hence ultimately a need for a master-coordinator arises to try to pull all the information together and make all the actions work. By doing so, this party becomes in effect a type of controller, and the problem then arises that this controlling party, while it may be being paid by the civic authorities or some other body, takes on a position of power that no one else in the system is terribly comfortable with. 
+This is one of the reasons that smart city projects tend to move very slowly after the initial optimism, and that few go beyond a few trials. 
+Examples include Singapore, Barcelona, Bristol and Manchester. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+The CxO’s dilemma This leads to a dilemma for the CSOs, CTOs, and CIOs of the enterprise world: 
+1. Do you want to employ a major ICT partner to control aspects of your connected digital world? 
+And to place so much power and control over your organisation in the hands of a third party with its own agendas that are not necessarily 100% the same as yours? 
+Or: 
+2. Must you and your organisation have a complete understanding and control of all the ins-and-outs of your many digital systems and processes? And the costs, resources, challenges and responsibilities that entails? 
+The simple answer is ‘no’. You don’t really want either. 
+Somehow, you want the parts of your organisations’ value-chain / dynamic jigsaw puzzle to work with each other in a way that works best for you. You want visibility and control, and for the parts of the ecosystem to ‘play nicely together’ to rules that you’ve defined and understand. 
+Should circumstances or needs change, you also want to be able to change things out without another massive transformation programme, and without your legacy partners making it as hard as possible to move forward. 
+Problem 3: A classic case of warehouse interruptus 
+As discussed earlier in this report, a fundamental challenge in today’s IoT is lack of interoperability between separate participants in a given business process. Logistics provides a good example of the challenges of communicating across siloes. 
+Logistics and the delivery of goods is a fundamental process of the industrial ecosystem. Billions of components and finished goods of all sorts make their way around the globe in every economy. This happens in basic production, assembly, delivery throughout the supply chain, and ultimately also in recycling. 
+Large modern warehouses are already highly automated to maximise efficiency and keep costs and delays to a minimum. The processes have been refined and redesigned over the years to try to extract every microgram of efficiency. 
+So much so that such warehouses no longer have a light switch in them to turn the lights on and off. They are controlled from a central software suite and turned on when a consignment is expected to be delivered. A storeman will probably also be scheduled to be on site when the cargo arrives with instructions of which cargo to unload and where to store it. 
+But what happens when the lorry is delayed by weather conditions? Essentially all the complex automation grinds to a halt because of the difficulty of connecting all the component systems. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Someone ends up having to phone up head office when the lorry arrives to turn the lights on, find a storeman, dig out the inventory and schedule from a system somewhere, and re-organise everything. 
+Is this a big deal? While it sounds like a minor inconvenience, in an operation dealing with hundreds or thousands of consignments with significant value in some cargoes, and the potential knock-on effects of one unexpected change this can have a major impact on service delivery, profitability, and customer experience. 
+It’s worth breaking down what happens to understand the nature of the problem. To simplify, let’s say the lorry belongs to a transport subcontractor – LorryCo. Most logistics chains will include numerous LorryCos, all independent and unrelated to WarehouseCo (the warehouse operator), and delivering goods for multiple producers and sellers7. In this case, let’s assume it’s for one production company called GoodsCo8. 
+Figure 4: Players in the logistics ecosystem example 
+Source: STL Partners 
+So, the lorry is going to be late. What are the options? 
+• Scenario 1: Although it’s technically possible for LorryCo to connect its data with WarehouseCo, both companies use different IT providers for their inventory and enterprise resource planning 
+Contracts and consignments may also be swapped at relatively short notice. This means that the relationships between LorryCos and GoodsCos are constantly varying and unpredictable. They are short-term and transient by nature. This is a considerable simplification, as for example, the driver may be self-employed or a subcontractor, as may the loader, and of course it does not include the impact of issues on further customers / players in the supply chain. So will the cargo of fruit arrive in time at the supermarket in the right condition, or part for the broken construction site equipment arrive in time to keep the multi-billion dollar project on track? We are excluding the needs of these players for the time-being to keep the example reasonably comprehensible. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+(ERP) systems, so getting them to communicate is a headache to organise. It is may also be more expensive to set up than the cost of managing delays. 
+− Also, WarehouseCo deals with hundreds of lorryCos and it doesn’t want to have to set up 
+hundreds of interfaces. 
+− And this doesn’t even touch GoodsCo or the end customers for the delivery. 
+• Scenario 2: WarehouseCo and LorryCo are in the lucky situation that their separate IT systems providers have APIs which developers can use to share relevant information more easily. Nonetheless, those developers or systems integrators would still have to navigate the nuances of the data between the two platforms, and of course make sure that the internal systems of both LorryCo and WarehouseCo do what they are supposed to with the data when they have it. 
+So what does the I4T need to deliver? What everyone in the supply chain wants and needs is for these things to interact intelligently, and within desired parameters. 
+• WarehouseCo wants to know that LorryCo is running late in advance. It would ideally want to foresee this, which it might do by combining weather, traffic and direct data from LorryCo. 
+• WarehouseCo wants to be able to allow the right LorryCos to communicate with the relevant 
+warehouses. To do this, a digital version of the warehouse needs to make itself findable to the LorryCos it wants to do business with. 
+• WarehouseCo wants to know if and when relevant lorries from LorryCo are going to arrive and be ready to process their cargoes. To do this, both WarehouseCo and LorryCo must be able to share certain aspects of their operational data in a way that makes the process work and satisfies security and privacy requirements of all concerned.  
+• 
+Ideally then, there would be a way for WarehouseCo to allow its warehouse to be “found” online by LorryCo’s lorry, both have their identities validated, and be able to exchange the requisite information. 
+But how might this happen?  
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Two approaches to creating the I4T…so far 
+Most Industrial Internet of Things solutions (see STL Partners’ forthcoming report) claim some degree of openness, offering APIs and interconnectivity – particularly between the systems within their own platforms or ecosystems. 
+These systems are not truly open, in the sense that it requires considerable intervention to get different systems to talk to each other. This is not all bad – it’s essential from a security angle that not anyone can see or control a device. Yet it means that the full benefit of a truly open system – like the Internet as we experience it today – is not yet accessible to Industrial IoT systems, or indeed to IoT systems for the home, vehicles and other application contexts. 
+Two approaches are emerging to try to close this gap: interoperability forums, and “dating services for digital twins”. 
+Interoperability forums 
+Parties working towards interoperability include, e.g.: 
+• The WWW Consortium (https://www.w3.org/): an industry-wide consortium which has the goal to ”lead the web to its full potential”, has an initiative to overcome the fragmentation of the IoT, called the “Web of Things” working group to develop standards. It says in its introduction9 
+− 
+“The Internet of Things (IoT) suffers from a lack of interoperability across platforms. As a result, developers are faced with data silos, high costs and limited market potential. This can be likened to the situation before the Internet when there were competing non-interoperable networking technologies. The Internet makes it easy to develop networked applications independently of those technologies. W3C is seeking to do the same for the Internet of Things.“ 
+• The Open Connectivity Forum – OCF, formerly also Allseen Alliance, IoTivity, Alljoyn 
+(https://openconnectivity.org/): promotes an open source software framework that allows devices to communicate with other devices. It states its mission as to: 
+− Provide specifications, code and a certification program to enable manufacturers to bring OCF Certified products to the market that can interoperate with current IoT devices and legacy systems. 
+− Make the end user’s experience better by seamlessly bridging to other ecosystems within a 
+user’s smart home and ensure interoperability with OCF compliant devices. 
+(https://www.w3.org/WoT/) 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+− The OCF is primarily a device-centric organisation, and works well for applications based on small devices connecting into a wireless router, but less so for heavy-duty applications such as controlling a power station. It evolved from Qualcomm’s efforts to standardise chipsets in phones, and was intended to standardise between sensors in mobile phones. 
+• Open Interconnect Forum (http://i3forum.org/about/): The i3forum, established in 2007, is an organisation of the international telecommunications ecosystem that brings together all stakeholders (international carriers, vendors, enterprise service providers, etc.) in order to help define best practices, promote and foster adoption of industry transformation. It encourages innovation and competition. 
+The standard problems with standards In theory, setting industry standards would be a great way to deal with this problem. 
+In practice, the ‘agreeing standards’ approach is known to have a few well-worn roads to hell: 
+• Everyone has to agree to make standards work. This takes forever. There are so many different 
+agendas and considerations that it is an incredibly difficult task to take on. 
+• 
+• 
+• 
+If you choose the wrong standard, you kill the category and all the businesses in it. Look at the history of Betamax videos, Wi-Max, etc. 
+It’s not always necessary to agree the same standard everywhere. You don’t need trains that run on the London Underground to work on the New York Metro, or on a Japanese bullet train track. 
+In the digital realm standards tend to work best at a more mature stage of industry development. Once all the wrinkles have been ironed out and the competing approaches have evolved into a stable ecosystem, then standards can be a feasible approach to help all players scale. 
+So maybe one day standards of varying sorts will come about. But in the meantime, we don’t think it is the ideal solution. 
+Dating services for digital twins 
+Rather than either… 
+• Undertaking the complex and expensive process of having to specify which things can connect, and how they connect using internal or external development resources like the IT departments and/or an IoT platform… 
+• or waiting years for industry standards to catch-up with real-life needs… 
+…a new set of offerings are evolving that allow things to find and interact with each other. 
+The concept of digital twins involves creating increasingly sophisticated visualisations of physical entities that can evolve to act as more than just a visualisation or model. As illustrated in Figure 5, the 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+fundamental principle is that the digital twin evolves to include components that allow control and management of its physical counterpart, and the ability to connect and communicate with other digital twins. (We will cover digital twins in greater detail in a separate STL Partners report.) 
+Figure 5: Three functions of digital twins 
+Source: STL Partners 
+Hence digital twins could potentially be a key component of the Internet for Things, including in their remit a role that is in some ways equivalent to a website URL – a digital ‘address’ and means of communication for things.  
+The ‘dating details’ available to other twins would include metadata such as what kind of data is available, frequency, format, access rights, etc. 
+STL Partners’ digital twins report will explain and explore this concept in greater detail. Focusing purely on the connectivity aspect of twins, one can imagine that a digital twins ecosystem could start to look as follows. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Figure 6: A possible Internet for Things (I4T) ecosystem 
+Source: STL Partners 
+In this regard, a new category of services that provide intermediation between digital twins is also evolving. We call these ‘dating services for digital twins’ as we think this is the most comprehensible analogy. 
+The dating services perform three basic functions: 
+• They allow digital twins to find other twins providing the kind of information they are interested in 
+(i.e. the right frequency, cost, reliability, etc.) 
+• They provide a translation service to ensure that the language, entities and quantities 
+communicated between the twins are consistent (e.g. translating temperature from Fahrenheit to Celsius, or vice versa) 
+• They provide an additional10 level of validation, security and privacy by allowing twins to stipulate 
+what other types of twins can find and/or connect with them (a bit like ex-directory phone numbers). 
+The dating services don’t maintain the connections, or any aspect of the relationship between the twins – they literally only perform the matching and introduction services. Neither do they hold any customer data, other than the metadata required for the dating services. 
+A new wave of disruptors – or enablers? We look at two examples of dating services for digital twins here in brief: Thingful and Iotic Labs. 
+The twins may have their own security and privacy measures like user-ids and passwords and other forms of validation so that only authorised third parties can access any secure layers. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Thingful Thingful wants to be a search engine for open IoT data. Verticals it serves include weather, environment, smart city, energy and transport.  
+“Thingful is a search engine for the Internet of Things, enabling secure discoverability & interoperability between millions of public & private connected objects around the world. Our mission is to enable an interoperable Internet of Things, in which connected objects find and use each other's data with the active consent of their owners. Thingful enables IoT data owners to control how their data is used, and empowers them to make more valuable and effective decisions through secure cross-domain IoT search & access.” 
+Thingful is privately funded and has received support from Innovate UK, ODINE and The Open Data Institute. It was founded by Usman Haque, who founded Pachube (now Xively, acquired by Google IoT Cloud). 
+How does it work? “The short answer is that this is still a semi-manual process. We have an automated and generalised scalable crawling and indexing engine, but it still requires some manual configuration when we encounter new data formats or protocols. There are, however, emerging standards for the way that IoT networks catalog their resources, and Hypercat is one that we have been involved in since the very beginning more than five years ago.” 
+Iotic Labs Iotic Labs is another start-up with VC backing and was co-founded by Paul Green, formerly of Arkessa. 
+Iotic’s website says: 
+“Iotic Twins don't store data – they use secure, brokered interaction to model behaviour. Reducing costs, increasing revenue and getting to market faster with one-time integration for multiple applications. 
+An Iotic Twin is a true digital twin. It is not a 3D model or visualization of an asset, but a through-life semantically defined virtualization of an asset. Iotic Twins are composites of data and controls able to model behaviours and meaningfully, programmatically interact with other twins. The interactions between Iotic Twins removes complexity allowing anything to interact with anything across your enterprise, supply chain and customers' data estates. Interactions between Iotic Twins are brokered with access control policies allowing granular control of enduring or transitory interactions.” 
+STL Partners understands that Iotic is in many ways a form of the classic two-sided business model. It allows users and suppliers to connect and exchange data. 
+Firstly, it is like eBay in that the participants can provide the metadata for the product (information) that they wish to share, and users can search for sources of data that they would find useful. Second, and more significantly, it provides a ‘twinning environment’ that brokers data and controls. This is achieved in a cloud-based environment that maintains security and enables interoperability. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Iotic uses a visual analogy of Lego, characterising the many different IIoT systems (PTC, SAP, Azure, etc.) as different coloured Lego blocks in Iotic’s world, that Iotic is able to reassemble easily to create the desired outcome or model. 
+Figure 7: Iotic Labs “Lego” 
+Source: Iotic Labs 
+Iotic allows users to subscribe to and receive data from the sources they seek for as long or as short a while as desired or permitted. It does not store data, but it can provide most recent data and enable a digital twin to become more data-rich than its real counterpart, for example by integrating third-party data. 
+Civil engineering: Making all the pieces work together in real life 
+Colin Evison is Head of Innovation at BAM Nuttall (http://www.bamnuttall.co.uk/), a UK civil engineering company. It is part of the Royal BAM group (https://www.bam.com/), a 7 billion Euro engineering conglomerate. BAM Nuttall has a long and distinguished history of working on major construction and infrastructure projects, for example the London 2012 Olympics and the current UK Cross-Rail project. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Colin’s brief is to find innovative ways to improve his company’s efficiency and develop new propositions and services for BAM Nuttall’s customers. He and his team are working with Iotic on a series of development activities with this goal in mind.  
+As a civil engineering and construction company, BAM Nuttall faces many challenges common to most industries. Construction is a very traditional industry, and things are often done a certain way because they always have been. There may be good reasons for this, and safety, security and compliance are incredibly important in construction because the human and the financial costs can be very high. So new ideas must be proved carefully and convincingly. 
+Also, the field operations of construction are very transient, as they are for many businesses. Major equipment is used on a project in one part of the company, and a week later it’s needed on a project or 200 miles away. The teams using it will be different, and the other companies and equipment on the two sites are likely to be quite different too. 
+So BAM Nuttall faces a triple bind in terms of innovation: 
+strong existing traditions and deeply embedded legacy systems; 
+a high need for compliance; 
+and a high degree of transience and non-conformity in each project. 
+An IT manager’s nightmare, in other words. 
+Colin explained that the UK Government has set high level aims for construction in terms of increasing productivity and reducing costs for 2025. While this is an incentive for innovation, Colin sees his task as “one, how can we improve productivity today, and two, how can we build on this to improve future projects?” 
+“One of my first observations coming into the role (in 2017) was that we have all this equipment on sites, but no information about it, although many of the bits of kit do provide information back to their makers. We just didn’t collect or use it anywhere. Many of them offer us an app to monitor their bit of kit, but that’s not much use to us. I or the site manager doesn’t need 10 different apps, they need one that works with all the stuff.” 
+There’s an example of some of the work Iotic is doing with Colin and the team at BAM Nuttall in this YouTube video. It shows how they’ve developed a camera-based system to monitor important kit (in this case a site compressor) that has no connected diagnostics. 
+• 
+• 
+• 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Figure 8: BAM Nuttall and Iotic’s learning camera application to monitor machines 
+Source: BAM Nuttall & Iotic on YouTube, https://www.youtube.com/watch?v=GlEW71klAQk&feature=youtu.be 
+While this is an application that many different IIOT providers could enable, Colin says the value of the Iotic approach is that it’s made it easy for the team to connect different applications and help them work together. 
+Moreover, Iotic’s Sophie Peachey explained that the ability to connect external data sources is critical to making the applications work in real life for BAM Nuttall. 
+“In the video you can just see part of the development of the compressor monitoring application. To make this app really work, we need site weather and other contextual data. For example, we need to know if it’s raining as a few drops of rain on the camera could completely change how the AI interprets the images. Plus this then connects up with a number of other applications and systems across the site and the company.” 
+Another application in development recognises whether the wind speed on site is above a velocity that means crane operations are risky, and how to automate actions and alerts around this alert. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Conclusions: It’s a tough job – but somebody’s got to do it 
+The functionality envisioned in this report as ‘the Internet for Things’ will come about in the next few years. The needs exist now and the demand will get stronger as more organisations and people reach the same conclusions about the needs and opportunities of the Coordination Age. 
+The only real question is how will it come about? 
+This report outlines two approaches, and there are doubtless others. Ideas that spring to mind readily are, for example: 
+• That a similar industrial structure to the Internet or some extension of the Internet could arise 
+• One of the large distributed players like Amazon or Google could decide to enable and facilitate a 
+connecting and enabling functionality along these lines 
+• Telcos could see this as a new opportunity to add value to the economy and acquire or develop a 
+solution to deliver it 
+Right now, the standards / ICT industry collaboration approach looks to be structurally challenged. The incentives to co-operate are relatively low, and the rewards for individual success high. 
+It’s possible, but also quite hard to imagine one of the major players really succeeding. The vested interests are stacked against the ecosystem favouring a powerful existing player unless the proposition is really compelling. 
+Amazon could be well positioned here with its growing role in many ecosystems as a cloud player – and also with its logistics expertise and knowledge. 
+Google also has reach into many interesting areas – maps, search, IoT, Cloud, AI and so on. 
+Yet telcos could do something here too, though the challenge again is to imagine them collaborating at scale and pace in such a way that would achieve market traction. And there is an increasing question as to whether enterprises actually trust telcos to deliver on complex new projects – vis the drives to create and own private 4G and 5G networks. 
+So Iotic and Thingful – and any other such players – are in an interesting space. They may also find themselves targets for acquisition by one or more of the major players. 
+Perhaps a company like Iotic, should it be able to scale, and license or federate it’s technologies/IP so that any player can use it in a compelling way, could galvanise this space. 
+Right now, it’s still all up for grabs. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+THE IOT IS DEAD: LONG LIVE THE I4T – THE INTERNET FOR THINGS | MAY 2019 
+Index 
+5G, 7, 28 AI, 7, 28 Alljoyn, 21 Allseen Alliance, 21 Amazon, 3, 8, 28 API, 2 Arkessa, 25 automation, 7, 18 Bob Machin, 7 Coordination Age, 2, 7, 10, 14, 28 CSG, 7 Dating services for digital twins, 23 Digital Twins, 4, 23, 24 digitisation, 7 eBay, 26 Enterprise Resource Planning (ERP) systems, 
+GE, 3 Google, 3, 8, 25, 28 Healthcare, 7 i3forum, 22 I4T, 2, 3, 4, 10, 12, 13, 15, 21, 24 IBM, 3 IIoT, 3 Industrial Internet of Things, 3, 4, 21 Information Age, 2, 8, 9 Internet for Things, 2, 4, 7, 9, 10, 11, 12, 13, 14, 
+16, 23, 24, 28 
+Internet of Things, 8, 10, 11, 12, 13, 21, 25 IoT, 2, 10, 12, 13, 21, 23, 25, 28 Iotic, 4, 25, 26, 27, 28 IoTivity, 21 Kevin Ashton, 10 Logistics, 7, 18 London’s City Airport, 27 M2M, 10 machine to machine, 10, 13 Matrixx, 7 NFV, 7 Nuttall, 27 Open Interconnect Forum, 22 Oracle, 3 Paul Green, 25 PTC, 3, 26 Schneider Electric, 3 SDN, 7 Smart City, 17 Smart home, 7 standards, 3, 21, 22, 23, 25, 28 The Open Connectivity Forum – OCF, 21 The WWW Consortium, 21 thing 
+definition of, 12 
+Thingful, 25 Transport, 7 
+© STL Partners 
+EXECUTIVE BRIEFING 
+Research 
+Consulting 
+Events 
+www.stlpartners.com 

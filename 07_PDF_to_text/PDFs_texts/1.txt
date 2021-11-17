@@ -1,0 +1,642 @@
+Executive Briefing Service Network Futures 
+Executive Briefing 5G: THE FIRST THREE YEARS 
+After considerable hype and uncertainty, the near-term developments for 5G are now much more apparent, including which nations will go first, 
+chip and handset availability, and the use of different spectrum bands. 
+Dave Burstein, Associate Analyst  |  dave.burstein@stlpartners.com  |  December 2018 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Executive Summary 
+The first three years of 5G has recently seemed hard to read because changes are coming so fast. However, the underlying framework is now clear. Networks take years to build, equipment takes years to go from lab to consumers, and investors expect to hear about company plans for several years forward. 
+Some basic timelines 
+5G works. Verizon is connecting customers at close to a gigabit. AT&T has opened the first of 12 cities with a mobile hotspot (a puck.) Chips small enough for a phone have been seen but will be in very short supply until the middle of 2019. 
+The cost is relatively modest. Company after company is reporting 5G builds are no more expensive than 4G was. AT&T’s CFO John Stephens confirms, “The company expects its 5G investment will not increase capital intensity.”1 Verizon is building arguably the world’s most advanced 5G network and has reduced capital spending in 2018. CEO Hans Vestberg does not expect a capex rise. Deutsche Telecom tells investors capex will be flat the next three years. Orange intends to cut capex, as does AT&T. “Smart Builds” are a key tool. Claims of high costs, at least in the first half dozen years, are bogus. 
+Phones will be in very limited supply until the second half of 2019. The chips must be manufactured on the advanced 7 nanometre process, only available at Taiwan Semiconductor Manufacturing Company Limited (TSMC) and Samsung. The capacity is limited. Apple has bought 75% of the output at TSMC for chips for the 2018 iPhone, which is not 5G. 
+Almost all major companies will be doing early deployments or trials in 2019. That includes all the Americans, Chinese, Koreans, and Germans. 
+Volume will be very low until 2020 or 2021. Both Verizon and AT&T are actively deploying. However, CFOs Matt Ellis and John Stephens have each said material revenue is not expected until 2020. 
+What will 5G deliver? 
+A version of 5G at the highest frequencies, also referred to as “millimetre wave” (mmWave), delivers three times the capacity of low and mid-band if the network is well designed. Verizon, using 800 MHz, expects shared speeds of five to seven gigabits and customer speeds often a gigabit or slightly more. So far, customer speed-tests and Verizon demonstrations have been at or close to the gigabit. 
+Verizon officially says 300 megabits – 1 gigabit, without specifying who would get the lower speeds. CEO Vestberg recently said some homes would not get mmWave, presumably in rural areas. Speeds 
+https://finance.yahoo.com/news/john-stephens-t-chief-financial-195300459.html 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+fall off with distance and interference. Verizon may have decided to use fewer cells or serve a larger area from each one. 
+Using 256 small antennas (Massive MIMO) to direct the signal is working extremely well. I’ve seen 20 gigabits demonstrated at Huawei as specified in the standard. That requires more spectrum than any company is likely to acquire. 
+Verizon is undertaking a mmWave 5G build, in a bid to deliver a ‘Fixed Wireless Access’ (FWA) network in parts of the US to compete with cable operators for high data-rate traffic to and from the home. 
+Mid-band frequencies, although they offer less capacity, became central to “5G” discussion in 2018. Mid-band uses 4G equipment with a software layer, New Radio (NR). Low and mid-band are not significantly faster than today’s best “4G” gear. In many cases, good “4G” will be faster than the “5G” being deployed. The lobbyists and marketers are very happy to be able to apply the magic name “5G” to what they would have deployed as the natural evolution of “4G.” The best mid-band uses 100 MHz and many antennas (i.e. massive MIMO). 
+Swisscom made the first phone connection in November 2018. The peak speed was 1 gigabit, which means they used mid-band, probably 3.5 GHz. Most customers will connect at 100-400 megabits. That is comparable to the best 4G LTE connections and slower than some LTE connections.2 NR software adds little to capacity. Many regulators and journalists inaccurately attribute mmWave performance to mooted mid-band 5G deployments. 
+What will 5G be used for? 
+Better broadband, not new “use cases,” will be the most important application for years. Autonomous cars do not need 5G. Thousands are on the road today using lidar and radar. Gamers, especially augmented reality (AR) and virtual reality (VR), welcome any speed-up, especially in latency. However, it is not clear that the speed-up will result in a large increase in gaming. 
+Making new games to take advantage of improved networks will take several years. DT and Telefonica Deutschland are working together to allow multiplayer gaming over DT’s Edge/core cloud. Gaming giant Tencent CEO Ma Huateng is accelerating WeChat VR but it is not ready yet. It is not clear whether a significant volume of gamers will be moving to “5G friendly” versions in three or even five years. The demos at shows are very impressive, including a “synthetic reality” at Huawei’s London mobile event in November 2018. The 3D illusion was great – even without glasses – and the eye tracking took you around the screen. But it required about a 70-inch 8K display and the better part of US$100,000 of gear in total. 
+Some hope that consumers will pay more for the higher speed service, especially for multiplayer AR/VR/SR. That is still unproven. 
+https://www.pcmag.com/news/359649/t-mobiles-laa-creates-screaming-fast-speeds-in-nyc 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Edge Networks Moving servers closer to the ultimate consumer reduces latency. There’s enormous interest everywhere though few deployments within any Western telco network. 
+China will bring edge networks within 25 milliseconds of 90% of China’s population by 2025, Minister Miao Wei said. That’s an almost impossibly large task, but China has done the impossible before. 344 million fibre to the home connections in five years were equally unlikely, but China now has 344 million FTTH lines, connected, not just passed. 
+No one in the West is willing to make a commitment to anything similar. Deutsche Telecom is perhaps closest. Working with its subsidiary MobiledgeX, it has placed servers in 17 aggregation points in the networks and is expanding from that. Latency of 20-25 ms is possible there if everything goes right. 
+I call DT an edge/cloud system; advocates of 5G edge networks have focused on servers even closer to the end user: at the small cell (unlikely,) at the C-RAN, or at the metro POP, a centre of one city’s networks. Latency from the cell to the phone is about 10 ms in all announced 5G networks including Verizon and AT&T. Each step further back adds more latency, to a total of 15 ms or more. 
+The question is whether the lower latency is worth enough that people will pay for it? 
+Controlling connected cars is unlikely. Video doesn’t need low latency once the stream is flowing. Channel changes might be faster but is that enough. 
+It is highly unlikely any large new use cases will develop in the three years in this study. 
+IoT: Not so soon "Just about everything done with IoT today works on 4G." and "Bluetooth, Zigbee, and Z-Wave, along with Wi-Fi, will win much of the in-home IoT."3 Factories, planes, trains, and automobiles. 
+BMW and other German carmakers are “looking to set up their own local 5G networks.” Telcos including Telia believe industrial companies will generally choose to use telco networks. Getting to very low latencies requires radios inside the factory/mine, managed either by the owner or an outside party such as a telco. Dean Bubley suggests systems integrators like Siemens, ABB, Honeywell, Boeing, or Thales might be natural vendors. 
+Drones China Mobile, Huawei, Ericsson, BT and many others are actively testing drones. I don’t know the market, but some deployments may be coming soon. The likely volume will be modest in our three years. 
+"Automotive does not need mmWaves," according to Deutsche Telekom and Professor Gerhard Fettweis.4 Mobile connections will be very useful in cars. Entertainment is already popular. It’s easy 
+http://wirelessone.news/10-r/1203-all-current-iot-applications-work-well-with-4g-although-i-expect-change-in-the-future http://wirelessone.news/mimo-2/1071-automotive-does-not-need-mmwaves-deutsche-telecom-professor-fettweis 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+to see applications like Waze-like traffic updates and software updates. Deutsche Telekom is building an extensive edge/cloud network that would enable drivers to communicate. 
+It’s unlikely that 5G will be needed to control autonomous cars for many years, which would be the high volume “use case.” Google just ordered 62,000 autonomous Chrysler Pacificas to add to its fleet of 600 driving around America, well before 5G networks will be widespread. 
+Current plans reviewed in the report 
+• Carriers: Verizon, AT&T, Sprint, T-Mobile U.S., Korea Telecom, SK Telecom, LG, Italy, Switzerland, 
+Ireland, Japan, Elisa Finland, China Telecom, China Mobile, China Unicom, India, Germany, France, and the Arabian Peninsula 
+• Phone makers: Apple, Samsung, Huawei, and others 
+• System vendors: Samsung, Ericsson, Huawei, Nokia, ZTE, Mavenir and Parallel Wireless 
+• Chipmakers: Qualcomm, Samsung, Intel, Huawei-HiSilicon, MediaTek, Broadcom/Avago, 
+Skyworks, and Qorvo 
+Some market highlights Verizon is going as fast as it can to 30 million homes passed with mmWave. That will take several years because of the practical limits when building a large network. Telefonica Deutschland and (I believe) one of the Koreans have similar plans. AT&T’s first 12 cities will use mmWave, but CFO Stephens indicates mmWave will mostly be for urban hotspots. AT&T will use Mid-band for most of the country. 
+“Smart builds” bring down the mmWave costs. Verizon determined that upgrading existing sites easily could reach ~25% of its customer goals. That will be the first stage of Verizon’s 5G buildout, 30 million homes by around 2022. Qualcomm believes upgrades to existing sites can reach ~65% of urban homes on average. Telefonica Germany has a similar strategy. 
+Verizon CEO Vestberg points out that equipment costs are constantly coming down. He expects that lower equipment costs will allow him to build out “the rest of the country” by 2027. (Telco executives mean 90%-98% when they say ‘all’ as reaching the most difficult to reach usually has challenging economics.) 
+T-Mobile will cover the “entire United States” with low band 5G by 2020. All the Americans, Chinese, Koreans, and Germans have substantial plans for 2020 and 2021 in low and mid-band. T-Mobile U.S. is actively building 4G across the country in its newly acquired 600 MHz band. It now covers 1,200 cities. T-Mobile will add NR software and it will be 5G. Because it has only 15 or 20 MHz in the 600 MHz band, the speeds will be much lower than much 4G including T-Mobile’s own. Most of the other carriers intend to emphasize 2300 MHz to 4200 MHz. With 100 MHz blocks, peaks speeds will be over a gigabit and typical customer speeds 100–400 megabits. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+“Cable is going to be humongous” – at least in the U.S. Comcast, Charter, Cox, and Altice pass over 85% of U.S. homes and all have said they will move aggressively into mobile. Cable engineers swarm 5G events and cablecos have been testing actively. Cable has power and backhaul near almost all homes, as well as customer relationships. Major U.S. cablecos has added a second SSID to Wi-Fi gateways to allow neighbours and passers-by to connect if they have the appropriate cable company login. I can use my Time Warner Cable credentials to login my tablet in most of New York City. 
+Europe – less likely to lead In Europe, the situation is less clear. DT CFO Thomas Dannenfeldt believes unbundling and MVNO prices are low enough that cablecos don’t need to build their 5G networks and mobile companies don’t need to invest in mmWave as a landline replacement. Vodafone CEO Nick Read agrees, except in limited niches. 
+Key dates • Verizon, the Koreans, and AT&T will offer 5G fixed wireless and “puck” home hubs. 
+• All five system vendors claim their radios are production ready including mobile. 
+• A very limited number of phones will probably be demonstrated. 
+• Nearly every phone maker will offer a 5G phone, probably at MWC Barcelona. Quantities will be 
+severely limited until the second half because of a shortage of chips. 
+• Most telcos in the West and China-Japan-Korea will be deploying. Most will call what they are 
+doing “pre-commercial” or trials. The Chinese and others will be doing very large builds. 
+• Phone prices will be very high and the phones will have major limits. 
+• Most major carriers will declare they are in commercial deployment, from India to Norway. 
+• 3.5 GHz will be the most prominent. 
+• Verizon CEO Matt Ellis expects “material” revenue from mmWave 
+2021-2023 • More of same, in larger volume. 
+Large edge network in China. 
+• 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+2022-2026 • Many improvements will be made. Possibly one ms latency URLLC and edge networks. 
+• Phone prices should become reasonable but not low 
+• Carriers will start to build mmWave, because the capacity will become necessary. 
+• Uses like AR/VR may have an opportunity to grow 
+• Automobile entertainment and other functions will drive traffic. Network controlled autonomous 
+cars are unlikely to be common. Radar and lidar will likely be more common. 
+Some surprises are inevitable. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Table of Contents 
+Executive Summary ............................................................................................................................................... 2 
+Some basic time-lines ....................................................................................................................................... 2 
+What will 5G deliver? .......................................................................................................................................... 2 
+What will 5G be used for? ................................................................................................................................. 3 
+Current plans reviewed in the report ............................................................................................................... 5 
+Introduction ........................................................................................................................................................... 10 
+What is 5G? ........................................................................................................................................................ 10 
+The leaders are deploying millimetre wave ................................................................................................. 10 
+Key dates ........................................................................................................................................................... 12 
+What 5G and advanced 4G deliver .................................................................................................................... 14 
+Six things to know ............................................................................................................................................ 14 
+Six myths ........................................................................................................................................................... 16 
+5G “Smart Build” brings cost down to little more than 4G ........................................................................ 18 
+5G, Edge, Cable and IoT ...................................................................................................................................... 21 
+Edge networks in 5G ........................................................................................................................................ 21 
+“Cable is going to be humongous” – at least in the U.S. ........................................................................... 22 
+IoT and 5G ......................................................................................................................................................... 24 
+IoT and 5G: Does anyone need millions of connections? ......................................................................... 26 
+Current plans of selected carriers ..................................................................................................................... 27 
+Who’s who ............................................................................................................................................................. 32 
+Phone makers ................................................................................................................................................... 32 
+The system vendors ........................................................................................................................................ 33 
+Chip makers ...................................................................................................................................................... 34 
+Spectrum bands in the 5G era ........................................................................................................................... 37 
+Millimetre wave ................................................................................................................................................. 38 
+A preview of 5G smart strategies ...................................................................................................................... 41 
+How can carriers use 5G to make more money? ....................................................................................... 41 
+The cold equations of growth ........................................................................................................................ 42 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Table of Figures 
+Figure 1: 20 years of NTT DOCOMO capex ..................................................................................................... 15 
+Figure 2: Verizon 5G network plans .................................................................................................................. 19 
+Figure 3: Qualcomm’s baseband chip and radio frequency module .......................................................... 35 
+Figure 4: Intel 5G chip – Very limited 5G production capability until late 2019 ........................................ 35 
+Figure 5: Overview of 5G spectrum bands ...................................................................................................... 37 
+Figure 6: 5G experience overview ..................................................................................................................... 38 
+Figure 7: Cisco VNI forecast of wireless traffic growth between 2021–2022 ......................................... 41 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Introduction 
+On October 1, 2018, Verizon turned on the world’s first major 5G network. It is spending US$20 billion to offer 30 million homes millimetre wave 5G, often at speeds around a gigabit. One of the first homes in Houston “clocked speeds of 1.3 gigabits per second at 2,000 feet.”5 CEO Vestberg expects to cover the whole country by 2028, some with 3.5 GHz. 5G: The first three years cuts through the hype and confusion to provide the industry a clear picture of the likely future. A companion report, 5G smart strategies, explores how 5G helps carriers make more money and defeat the competition. 
+This report is written by Dave Burstein with substantial help from Andrew Collinson and Dean Bubley. 
+What is 5G? In one sense, 5G is just a name for all the new technologies now being widely deployed.6 It’s just better mobile broadband. It will not change the world anytime soon. 
+There are two very different flavours of 5G: 
+• Millimetre wave: offers about 3X the capacity of mid-band or the best 4G. Spectrum used is from 20 GHz to over 60 GHz. Verizon’s mmWave system is designed to deliver 1 gigabit downloads to most customers and 5 gigabits shared. 26 GHz in Europe and 28 GHz in the U.S. are by far the most common. 
+• 
+Low and mid-band: uses 4G hardware and “New Radio” software. It is 60-80% less capable on average than millimetre wave and very similar in performance to 4G TD-LTE. 3.3 GHz - 4.2 GHz is by far the most important band. 
+To begin, a few examples. 
+The leaders are deploying millimetre wave 
+Verizon’s is arguably currently the most advanced 5G network in the world. Perhaps most surprisingly, the “smart build” is keeping costs so low capital spending is coming down. Verizon’s trials found millimetre wave performance much better than expected. In some cases, 5G capacity allowed reducing the number of cells. 
+Verizon will sell fixed wireless outside its incumbent territory. It has ~80 million customers out of district. Goldman Sachs estimates it will add 8 million fixed wireless by 2023 and more than pay for the buildout. 
+http://bit.ly/VZfirst Only pedants care that the most important “5G” technologies were developed for 4G. Carrier aggregation has been the key to driving speed increases since 2013. Massive MIMO deployed widely from 2016.Low TTI, the key to low latency, was included in LTE standards but rarely if ever in equipment. Good engineers think of advanced 4G and mid-band 5G as virtually the same thing. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Verizon CEO Hans Vestberg says he believes mmWave capacity will allow very attractive offerings that will win customers away from the competition. 
+Telefónica Deutschland has similar plans, hoping to blow open the German market with mmWave to a quarter of the country.7 Deutsche Telekom and Vodafone are sticking with the much slower mid-band 5G and could be clobbered. 
+Most 5G will be the much slower low and mid-band, formerly called 4G. 
+80% or more of 5G worldwide the next three years will not be high-speed mmWave. Industry group 3GPP decided early in 2018 to call anything running New Radio software “5G.” In practice, almost any currently shipping 4G radio can add on the software and be called “5G.” The software was initially said to raise capacity between 10% and 52%. 8 That’s 60% to 80% slower than mmWave. However, improved 4G technology has probably cut the difference by more than half. That’s 60% to 80% slower than mmWave. It’s been called “faux 5G” and “5G minus,” but few make the distinction. T-Mobile USA promises 5G to the entire country by 2020 without a large investment. Neville Ray is blanketing the country with 4G in 20 MHz of the new 600 MHz band. That doesn’t require many more towers due to the long reach of low frequencies. T-Mobile will add NR software for a marketing push. 
+In an FCC presentation, Ray said standalone T-Mobile will have a very wide 5G coverage but at relatively low speeds. Over 85% of users will connect at less than 100 megabits. The median “5G” connection will be 40-70 megabits. Some users will only get 10-20 megabits, compared to a T-Mobile average today of over 30 megabits. Aggregating 600 MHz NR with other T-Mobile bands now running LTE would be much faster but has not been demonstrated. 
+While attesting to the benefits of the T-Mobile-Sprint deal, Neville claimed that using Sprint spectrum at 2500 MHz and 11,000 Sprint towers will make a far more robust offering by 2024. 10% of this would be mmWave.9 
+Discussed in 5G smart strategy: “5G” is a magic marketing term. It will probably sell well even if 4G speeds are similar. The improved sales can justify a higher budget. 
+T-Mobile Germany promises nationwide 5G by 2025. That will be 3.5 GHz mid-band, probably using MHz of spectrum. Germany has just set aside 400 MHz of spectrum at 3.5 GHz. DT, using 100 MHz of 3.5 GHz, will deliver 100–400 megabit downloads to most. 
+100–400 megabits is faster than much of T-Mobile’s DSL. It soon will add fixed mobile in some rural areas. In addition, T-Mobile is selling a combined wireless and DSL router. The router uses the DSL line preferably but can also draw on the wireless when the user requires more speed. 
+http://bit.ly/TEFgig5G http://bit.ly/5G10to50 If the merger does not get approved, we think he will not follow the plans he described while lobbying the FCC. There are obvious ways to deliver higher speeds, including using more spectrum (readily available including from auctions,) more antennas, and more cells. T-Mobile Germany has 27,000 towers and is adding 10,000 more towers and 10,000 small cells. T-Mobile U.S. has redacted the tower count in FCC filings. It is about 40,000 for a population more than three times the German population, roughly half as many towers as T-Mobile Germany. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+China Mobile plans two million base stations running 2.5 GHz, which has much better reach than radio in the 3.5 GHz spectrum. In addition, the Chinese telcos have been told to build a remarkable edge network. Minister Miao Wei wants “90% of China within 25 ms of a server.” That’s extremely ambitious but the Chinese have delivered miracles before. 344 million Chinese have fibre to the home, most built in four years. 
+Telus, Canada’s second incumbent, in 2016 carefully studied the coming 5G choices. The decision was to focus capital spending on more fibre in the interim. 2016 was too early to make 5G plans, but a strong fibre network would be crucial. Verizon also invested heavily in fibre in 2016 and 2017, which now is speeding 5G to market. Like Verizon, Telus sees the fibre paying off in many ways. It is doing fibre to the home, wireless backhaul, and service to major corporations. CEO Darren Entwistle in November 2018 spoke at length about its future 5G, including the importance of its large fibre build, although he hasn’t announced anything yet. 
+There is a general principle that if it’s too early to invest in 5G, it’s a good idea to build as much fibre as you can in the interim. 
+Key dates 
+• Verizon, the Koreans, and AT&T will offer 5G fixed wireless and “puck” home hubs. 
+• All five system vendors claim their radios are production ready including mobile. 
+• A very limited number of phones will probably be demonstrated. 
+• Nearly every phone maker will offer a 5G phone, probably at MWC Barcelona. Quantities will be 
+severely limited until the second half because of a shortage of chips. 
+• Most telcos in the West and China-Japan-Korea will be deploying. Most will call what they are 
+doing “pre-commercial” or trials. The Chinese and others will be doing very large builds. 
+• Phone prices will be very high and the phones will have major limits. 
+• Most major carriers will declare they are in commercial deployment, from India to Norway. 
+• 3.5 GHz will be the most prominent. 
+• Verizon CEO Matt Ellis expects “material” revenue from mmWave 
+2021-2023 • More of same, in larger volume. 
+• 
+Large edge network in China. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+2022-2026 • Many improvements will be made. Possibly one ms latency URLLC and edge networks. 
+• Phone prices should become reasonable but not low 
+• Carriers will start to build mmWave, because the capacity will become necessary. 
+• Uses like AR/VR may have an opportunity to grow 
+• Automobile entertainment and other functions will drive traffic. Network controlled autonomous 
+cars are unlikely to be common. Radar and lidar will likely be more common. 
+Some surprises are inevitable. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+What 5G and advanced 4G deliver 
+• More broadband capacity and speed. Most of the improvement in capacity comes from 
+accessing more bandwidth through carrier aggregation, and many antenna MIMO. Massive MIMO has shipped as part of 4G since 2016 and carrier aggregation goes back to 2013. All 5G phones work on 4G as well, connecting as 4G where there is no 5G signal. 
+• Millimetre wave roughly triples capacity. Low and mid-band 5G runs on the same hardware as 
+4G. The only difference to 4G is NR software, which adds only modestly to capacity. 
+• Drastically lower cost per bit. Verizon CEO Lowell McAdam said, “5G will deliver a megabit of 
+service for about 1/10th of what 4G does.”10  
+• Reduced latency. 1 ms systems will mostly only be in the labs for several more years, but 
+Verizon’s and other systems deliver speed from the receiver to the cell of about 10 milliseconds. For practical purposes, latency should be considered 15 ms to 50 ms and more, unless and until large “edge Servers” are installed. Only China is likely to do that in the first three years. 
+The following will have a modest effect, at most, in the next three years: Autonomous cars, remote surgery, AR/VR, drones, IoT, and just about all the great things promised beyond faster and cheaper broadband. Some are bogus, others not likely to develop in our period. 
+Six things to know 1. It works: Verizon is offering near gigabit fixed mmWave services to tens of thousands, the speed confirmed by customer reports. AT&T and the Koreans (as of 1 December 2018) will soon follow. Verizon customers are reporting speeds close to the gigabit.11 
+2. Few chips: Mobile phones work but will be in very limited supply until late 2019. Only Taiwan Semiconductor Manufacturing Company and Samsung have the necessary 7 nm technology. Apple has bought 75% of TSMC production, limiting all others.12 
+https://www.cnbc.com/2018/05/15/cnbc-exclusive-cnbc-transcript-verizon-chairman-ceo-lowell-mcadam-speaks-with-cnbcs-david-faber-today.html http://wirelessone.news/mimo-2/1192-verizon-5g-i-m-getting-speeds-of-900-mbps-downstream-200-upstream https://www.eetimes.com/document.asp?doc_id=1333681 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Figure 1: 20 years of NTT DOCOMO capex 
+Source: Seizo Onoe, NTT DOCOMO 
+2.1. CTO Seizo Onoe points out the long-term trend is down, as are the last four years (red bars in Figure 1). The light purple on the right shows a rapid growth of data traffic while capex is falling. 
+3. Capex does not need to increase: Verizon is building the most advanced 5G network in the 
+world. It cut capex and guided that capex would be flat going forward.13 NTT CEO Seizo Onoe has been saying for years high 5G capex is a myth. Once actually expects capital expenditures for NTT DOCOMO to drop throughout 5G deployment.14  
+4. 80%+ of 5G deployments the next few years will be low and mid-band, not millimetre wave: Carriers representing a large majority of the world’s data connections predominantly will use mid-band and low-band. That group includes the Chinese giants, T-Mobile, Sprint, Orange, NTT DOCOMO and most other large carriers. Far fewer carriers plan extensive mmWave. Only Verizon fully committed to mmWave, and CEO Hans Vestberg more recently indicated some customers would be served by slower technologies. 
+5. Demand growth going down: The growth in traffic demand is slowing. Cisco predicts 30% data traffic growth in the U.S. in 2021.15 The projections of steady exponential growth are wrong on 
+https://seekingalpha.com/article/4213544-verizon-communications-inc-vz-q3-2018-results-earnings-call-transcript https://spectrum.ieee.org/tech-talk/telecom/wireless/5-myths-about-5g https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/complete-white-paper-c11-
+481360.html  
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+the current trend. There is no reason to believe all the highly touted “user cases” will amount to very much for at least five years. 
+6. LTE capacity going up: Massive MIMO suddenly makes 3.3 GHz to 4.2 GHz practical, with wide reach comparable to 1.8 GHz, although not the same capacity. This amounts to a 40% to 50% increase in capacity, without millimetre wave. Many believe this is enough well into the 2020s.16 
+Six myths 1. That new “user cases” will drive demand. The primary use for 5G will be more and better broadband (EMBB.) Connected cars, AR/VR/gaming and the dreamed of “applications we haven’t thought of yet” are highly unlikely to require much bandwidth for years. Gerhard Fettweis, Vodafone Professor at the University of Dresden, points out that autonomous cars do not need 5G. Thousands and probably millions will be on the roads before low latency 5G networks are built out.  
+2. That latency will be 1 ms. For practical purposes, latency should be considered 15 ms to 50 ms and more. The systems are being built to 10 ms between the cell and the phone; the 1 ms is in a future standard, URLL. No carrier has said it will build a 1 ms network for years, if ever. In addition, Respected analyst Linley Gwennapp points out, "Even if I reduce the latency to 1 millisecond, that only gets you to the base station. For most normal things you're doing on the phone, it's got to go to the cloud anyway.”17 While edge computing could bring cloud-like servers close to the end user, large edge networks are many years away except in China.18 Edge servers will most likely be deployed at a centralized RAN or metro POP which adds additional latency that must also be counted. 
+3. That real 5G networks will be very expensive. See above. If you look closely at the high 5G cost 
+estimates, you discover they are built on models of networks that are not the same as the companies intend to build. In addition, “smart builds” using existing cells and towers will keep the cost down for at least the first few years. Working with real data, Verizon has discovered that in many locations, the greater capacity of 5G means it needs fewer cells. 
+4. That the 5G networks would not be built without government help, direct or indirect. Verizon, AT&T, T-Mobile U.S., and Telefónica Deutschland are actively building without a subsidy. Nearly every major carrier has announced plans to build. Verizon, Orange, NTT DOCOMO, AT&T, and T-Mobile in Europe all have large 5G plans but have said they will be able to achieve them without capex increases. 
+ The cost of 5G has often been misconstrued. Mid-band 5G, the most common choice, is 4G 
+hardware with some software. The cost is similar to 4G, which carriers have shown can be economically deployed to over 95%. Frequencies of 2.3 GHz and above work much better 
+http://research.rewheel.fi/insights/2018_apr_3.4GHz_valuation_paradigm_change/ https://www.cnet.com/news/how-5g-aims-to-end-network-delays-that-slow-everything-down/ Jason Hoffman, CEO MobiledgeX, a DT subsidiary, interview with the author, November 2018. Also http://wirelessone.news/10-r/1223-
+5g-shanghai-2020-10-000-cells-100-000-nationwide 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+with many antennas, now deploying in both 4G and 5G. While the extra antennas do add to the cost of mid-band builds, the lower spectrum costs (except in Italy) more than compensate. 
+ Even millimetre wave, the more expensive choice, is not prohibitively expensive. Verizon is building a mmWave 5G network, and its capital spending in 2018 will be less than in 2017. CFO Matt Ellis told Wall Street his present plans are not to raise capex.19 Using a smart build, the costs of the first three or four years fit easily into current capex levels. Equipment costs continue to fall rapidly, reducing 5G costs in the later years. 
+ 5G will be built whether or not governments approve mergers, reduce competition, raise 
+unbundling charges, give tax incentives, etc. Because governments want 5G built, telcos have been claiming – insert whatever they are lobbying for – is necessary for 5G. That is unproven and often unlikely. 
+ Extreme rural areas, for 4G or 5G, may sometimes require support. Nearly all the population can be covered without subsidy. Verizon, T-Mobile, and AT&T each covers 96% to 99% of the U.S. population.20 If a government requires better coverage, including areas with very few people, the subsidy should be very carefully designed. 
+ Governments should never pay more than the actual cost of shared towers and backhaul. 
+The marginal cost of serving customers from existing towers is modest. It will almost always contribute to profits. 
+ Direct subsidies may be an inefficient way to provide rural service. German regulator 
+Matthias Kurth require winning bidders in a spectrum auction to build out rural areas before the more profitable cities. Because the telcos were spending their own money, they built efficiently and probably for far less than cost plus reimbursements. The telcos could recover what they spent by reducing the auction bids. WIK analyst Karl-Heinz Neumann consulted with BnetzA on the auction design. He believes the bids were only modestly lower.21 
+5. That 5G will have a major economic effect. The “studies” the claims are based on are almost all paid for by the companies that benefit and are mostly bogus. For example, nearly everything the Qualcomm22 and CTIA-funded23 studies claim as 5G benefits can be delivered by 4G. 
+6. That most 5G is much faster than 4G. While mmWave raises speeds into the gigabits, low and mid-band is more likely 100-400 megabits down, little more than 4G speeds. Bell Canada has 
+https://seekingalpha.com/article/4222109-verizon-communications-inc-vz-presents-morgan-stanley-european-technology-media-and-telecom?part=single Each reports 98% population coverage, but carriers often lie a little about this. Columbia University CITI conference, conversation with the author. https://www.qualcomm.com/documents/ihs-5g-economic-impact-study https://newsroom.accenture.com/news/new-research-from-accenture-strategy-highlights-economic-and-societal-impact-of-investing-in-5g-infrastructure.htm  
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+excellent 4G results, "People are seeing 750 Mbit speeds off of our LTE four band quad speeds,” according to Bell Canada CEO George Cope.24 That’s faster than the majority of “5G” being built. 
+5G “Smart Build” brings cost down to little more than 4G 
+“Everybody” knows 5G is expensive. The common wisdom is that the short reach of 5G will require a massive expansion of small cells. I made that mistake in 2016. Meredith Baker, AT&T and Verizon’s chief representative in D.C., still believes 5G will require 800,000 more small cells. “Everybody” is wrong, at least for the next three or four years. 
+My sources include Verizon CEO Vestberg, Orange/FT CEO Richard, and DT CEO Höttges. NTT CTO Seizo Onoe calls high costs “a myth.” Orange and DT have begun work on 5G which will accelerate in coming years. Both are rapidly adding fibre to the home. 
+DT says its capex will be stable through 2021. Orange says capex will be decreasing after 2018. Verizon, building the most advanced wireless network in the world, is seeing capex actually fall in 2018. Those results would be almost impossible if the 5G costs were high. 
+Why were so many so wrong about the costs? Verizon’s testing discovered the rate/reach of mmWave was much better than expected. Verizon has shown examples of gigabit service at 600 metres, more than twice the assumptions of earlier estimates. Qualcomm’s analysis also found excellent reach for mmWave. Upgrading existing facilities to mmWave could reach 65% of homes. The cost of many new small cells could be avoided, i.e. through a smart build. 
+The high estimates were based on out-dated estimates of 5G capabilities and equipment costs, extremely inefficient network building, and building to locations that realistically are not going to be served. 
+Verizon found that in some areas 5G would require fewer cells than 4G did. The slide below is from Verizon’s analyst meeting this spring. 5G and upgraded 4G cells have so much more capacity that some cells could be retired. In dense areas, mobile networks are built for capacity, not reach. The new equipment can therefore serve the area while using fewer cells. AT&T, British Telecom, and Verizon are first building 5G in dense areas. Some believe they will never bring mmWave to relatively rural areas. 
+In spring 2018, 3GPP clarified that anything with NR software is “5G.” The low bands this now includes have much greater reach than initial mmWave plans. Existing 4G networks cover 98% of the U.S. by carrier estimates. Adding NR software slightly increases reach. That’s how T-Mobile can promise to 
+https://seekingalpha.com/article/4216937-bce-inc-bce-ceo-george-cope-q3-2018-results-earnings-call-transcript  
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+cover the entire U.S. in 2020. The 4G, 600 MHz network it is building everywhere will be upgraded to 5G with the new software. 
+Some excessive estimates could be traced to lobbyists whose arguments were best served by high estimates. I observed similar distortions in cost estimates for fibre. Three years ago, a BT CIO told a conference I chaired that FTTH was “impossible” in England.25 Last year, BT changed plans and is building FTTH as rapidly as they can train installers. DT also said FTTH was impossible because of high costs. They are now moving on an FTTN deployment while telling investors neither FTTH nor 5G would raise capex. 
+The most extreme rural areas can be very expensive. The U.S. Broadband Plan found that 44/100 of 1% were prohibitively expensive to reach. Some projects in the U.S. broadband stimulus cost well over US$10,000 per home. Think three homes on the far side of an island or five kilometres up a dirt road. The assumption of the planners was that 1% or 2% would be served by satellite. 
+4G networks will be maintained for more than a decade. 4G speeds with today’s equipment provide 100–400 megabit downloads to most. They will serve those not yet reached by 5G. 
+Figure 2: Verizon 5G network plans 
+Source: Verizon 
+G.fast Summit, Paris, May 2015 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+What is a “Smart Build”? Inexpensively upgrading most existing sites brings the 25% of the U.S. Verizon has targeted for the first stage, extending to about 2022. Telefónica Deutschland, so far the only large mmWave build announced in Europe, also is targeting 25% in the first stage. The costs will stay low. 
+What will happen after the first 25% and three to four years? Vestberg of Verizon was CEO of Ericsson previously. He remembered how painful it was because equipment prices had to drop significantly over time. As CEO of Verizon, he benefits from the price drop. He expects that in a few years, the equipment will be much less expensive. That would enable Verizon to build out the rest of the country by his 2017 target, again on a modest budget. 
+We will address the question of whether more companies should do mmWave given the “Smart Build” lower cost in our forthcoming 5G smart strategies report. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+5G, Edge, Cable and IoT 
+Edge networks in 5G 
+• China will be huge 
+• DT is live with Edge/core 
+• Others will be slow to build 
+5G networks deploying today have latency from the cell to the phone around ten ms. Verizon, AT&T, and Swisscom all measure around ten ms from the radio and back to the phone. One millisecond 5G networks are far in the future. 
+Often, there is additional latency from the cell back to the controller of the cell radios, the C-RAN. While some proposed Edge Networks would put large servers at the C-RAN or elsewhere close by in the metro, the existing Edge Servers are further back. Deutsche Telecom, in adding servers at centralized points in the telco’s own core network, is hoping for 20–25 ms latency. Non-telco companies see the edge of their “cloud network” outside the telco network, with typical minimum latency of 30–50 ms. 
+No western carrier has announced a major network deployment close enough to the customer to reduce latency to much less than 20 ms. Telus CTO Ibrahim Gedeon told me a well-designed network behind the cell site can dramatically reduce latency.26 Nothing has been announced. 
+From AT&T to Vodafone, all are interested but not committed to build. The impact will likely be minimal for our three years. The technology works, but the question remains who will buy. 
+Minister Miao Wei has directed the three Chinese giants to bring 90% of Chinese within 25 ms of a server by 2025. The government owns the carriers; the Minister’s suggestion is almost always accepted. The Ministry can, and often has, fired the CEOs of the phone companies when they did not deliver. 
+Building a network of that scale so quickly is almost impossible, but the Chinese have delivered miracles before. China connected 344 million homes to gigabit capable fibre, most in four years. That is 344 million connected, not just passed. 
+The current plan is to spend most of the next two years testing and designing the network, then build it remarkably fast. Since many of the engineering problems are not yet solved, delivering in 2025 would be a remarkable achievement. 
+Edge networks will likely happen in the West as well. They are a major part of the NGMN 2035 plan for carriers to control the network and charge the OTT providers. NGMN is supported by senior technical 
+Discussion with author, November 2018, at Huawei Mobile Broadband Conference London. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+experts from, among others Orange, British Telecom, China Mobile, Deutsche Telekom, AT&T, NTT DOCOMO, and Telecom Italia. 
+5G End-to-End Architecture Framework v2.0 sets forth the desires of the incumbent carriers to take back control and charge everyone else for carriage. It’s a challenge to public policy, because the carriers have a “terminating monopoly” on millions of customers. You can’t get to 16 million people using AT&T broadband without going through AT&T, giving them significant market power. 
+An analyst I respect disagrees with the likelihood a telco dominated cloud would be successful. Neither of us can be sure how this will go until well past the three-year horizon of this report. 
+Chinese television executives are already worried about how much they will be expected to pay. Lower latency is primarily helpful when changing channels, checking a directory, or other interactive actions. Once a video stream begins, it will continue without interruption on any decent network. 
+CCTV wants to deliver the highest quality video in the world in the UHD era. The current plans are to encode at 36 megabits. That won’t be practical if the price of the edge network is too high. 
+“Cable is going to be humongous” – at least in the U.S. 
+U.S. cable companies will go big into wireless. “Humongous” said a senior tech person off the record. The only question is – how soon? It’s unlikely to be 2019 so 5G technology will be available when they build. 
+For now, Charter and Comcast are reselling Verizon to their 50 million customers. Few European cablecos have announced plans to build wireless networks. Unbundling, rare in the United States, has allowed many to offer landline service without the expense of construction. 
+Cable has fibre and power close to most homes, bringing the deployment cost all the way down. John Chapman, Cisco Chief Architect, told me cable engineers have found a way to bring latency down.27  Vodafone confirms low latency cable should work. Traditional telco vendors Alcatel/Nokia and Adtran have built substantial relationships with the cablecos. 
+Cable tech people are queued up to go and are swarming 5G discussions in the US. Charter was one of the first to test 3.5 GHz, and its engineers say it is ready as soon as top management says go. 
+Several are planning near-nationwide deployments of “remote phys” - small units going on the connection from the network to homes. New phys are required for DOCSIS upstream, which will be able to deliver a gigabit and more. When engineers climb the pole to install a phy it would be relatively easy to also install a small cell. From that point cable companies generally have fibre all the way to peering points. 
+https://www.cablelabs.com/how-docsis-3-1-reduces-latency-with-active-queue-management/ 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+U.S. cablecos (except Altice) are hugely profitable. Their capex needs are going down. Gigabit DOCSIS 3.1 is almost ubiquitous. Set top boxes - a remarkable proportion of cable capex - are being phased out for software. 
+Besides the physical facilities, all have excellent engineering staff, thousands of field technicians, and large if not the best customer care. 
+With more than 50 million customers, Comcast and Charter have a significant marketing footprint. Quadplay will reduce churn, almost everyone believes. 
+Imagine the network if cable puts a picocell in every home gateway, giving great indoor coverage. Cisco is ready to deliver that. 
+Wireless companies could persuade cablecos not to build by offering an almost unbelievably cheap deal Deutsche Telekom is looking over its shoulder at Telefónica’s plan to use gigabit mmWave to disrupt the market.28 Telefónica has plans to use the speed and low cost per bit to pull ahead of the pack. 
+DT CFO Thomas Dannenfeldt had a thoughtful answer when asked about why T-Mobile in the U.S. is doing fixed wireless but there was no visible response to Telefónica. 
+“With regard to T-Mobile US, look, superfast 5G speeds to disrupt the fixed broadband market, that's definitely the business case for the U.S. And one of the reasons is this unbelievable expensive fixed line cost you find in the U.S. market. So coming with a mobile technology with higher bandwidth at a lower cost, this is definitely a good disruptor. So that's slightly different in the European footprints. If you compare the TCOs of fixed line connectivity or fibre connectivity with FMC proposition here. But we are not giving up because especially in the rural areas, the FMC -- FMS cost might be lower than own fibre deployment.” 
+Put another way, Dannenfeldt is suggesting that using wireless for a landline alternative is not as likely in Europe, where wireless companies can and do offer landlines unbundled from the incumbent. Unbundling is generally impractical for U.S. carriers. In two thirds of the U.S., Verizon Wireless cannot offer wireline as part of a package. 
+I infer that DT is considering offering an unbundling price that would discourage Telefónica from building a fixed alternative. It would also be a natural move for Sprint if it survives the T-Mobile takeover attempt in the U.S. Sprint has 160 MHz of 2.5 GHz spectrum, with capacity far higher than likely sales. The marginal cost of carrying cable traffic would be extremely low. Sprint is installing tens of thousands of small cells on poles belonging to Cox and Altice, the third- and fourth-largest U.S. cablecos. 
+https://seekingalpha.com/article/4221001-deutsche-telekom-ag-dtegf-ceo-timotheus-hottges-q3-2018-results-earnings-call-transcript and http://wirelessone.news/10-r/1215-edge-networks-in-the-core-jumbo-shrimp 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+The cable guys believe nothing will stop their network deployment of 4G/5G. But they stop and think when I suggest this alternate scenario. It's certainly a possibility. 
+Black swans happen, although the odds are long against. 
+IoT and 5G 
+In the home... “Just about everything done with IoT today works on 4G." and "Bluetooth, Zigbee, and Z-Wave, along with Wi-Fi, will win much of the in-home IoT.” 
+Industrial “BMW and other German carmakers are “looking to set up their own local 5G networks, giving them full control over the data that will be the lifeblood of their new factories. … BMW has already informed the Federal Network Agency (BNA) that it is interested in operating local 5G networks. So have Volkswagen and Daimler. … BNA president Jochen Homann says inquiries have come in from many industrial sectors: ‘There’s a gold rush atmosphere about it.’”29 
+Gabriela Styf Sjoman, Vice President, Deputy Head of Global Services and Operations, and Head of Group Networks at Telia says her customers are very interested in Telia supplying systems for mining. They need total reliability and are prepared to pay for it. The telcos are very optimistic that industry will choose to buy the service from them. 
+Nokia is optimistic industry will buy directly instead. CTO Marcus Weldon in 2017 told me Nokia is counting on high demand from companies building private 5G networks.30 Handelsblatt notes, “The car giants’ interest in networks can be summarized as a reluctance to entrust their entire digitized operations, along with priceless associated data, to big network operators like Deutsche Telekom, Vodafone, and Telefónica. Carmakers would prefer to take care of their own data security and network reliability, without relying on third parties to protect them from industrial espionage, hacker attacks, and network wear and tear. ‘If the network breaks down, we can’t hang around waiting for a technician to show up and fix it,’ said one car industry executive.”31 
+How many companies will build their own is unclear. The GSMA Enterprise Survey results, “Reflect a cautious prioritised investment approach towards 5G private networks among large manufacturers.”32 
+At this stage it’s hard to call how many companies will go it alone with network builds. It is likely that some industrial companies will want their own private network but will want some party – telco or independent – to manage it for them. 
+https://global.handelsblatt.com/companies/carmakers-want-5g-networks-germany-976242 In a sideline talk with me at the Brooklyn 5G conference. https://ieeetv.ieee.org/event-showcase/the-brooklyn-5g-summit https://global.handelsblatt.com/companies/carmakers-want-5g-networks-germany-976242 https://www.mobileworldlive.com/blog/intelligence-brief-qualcomm-advancing-fast-on-5g 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Drones China Mobile, Huawei, Ericsson, BT and many others are already experimenting with wireless control of drones. Guang Yang of China Mobile writes: 
+“Drones are driving numerous and evolving use cases, and creating transformative socio-economic benefits. Drone operation needs wireless connectivity for communication between drones and ground control systems, among drones, and between drones and air traffic management systems. Mobile networks are well positioned to identify, track, and control the growing fleet of drones. The wide-area, quality, and secure connectivity provided by mobile networks can enhance the efficiency and effectiveness of drone operations beyond visual line-of-sight range. We present field trial results collected in LTE-Advanced networks to gain insights into the capabilities of the current 4G+ networks for connected drones and share our vision on how 5G networks can further support diversified drone applications.”33  
+Automobiles "Automotive does not need mmWaves," says Karl-Heinz Laudan, Vice-President for Spectrum Policy at Deutsche Telecom. "Autonomous cars do not need 5G," Professor Gerhard Fettweis of the University of Dresden told the Brooklyn 5G Summit in May 2018, "Automotive does not need mmWaves.”34  
+Mobile connections will be very useful in cars. Entertainment is already popular. It’s easy to see applications like Waze-like traffic updates and software updates. Deutsche Telekom is building an extensive edge/cloud network that would enable drivers to communicate. 
+It’s unlikely that 5G will be needed to control autonomous cars for many years, which would be the high volume “use case.” Google just ordered 62,000 autonomous Chrysler Pacificas to add to its fleet of 600 driving around America, well before 5G networks will be widespread. That's convincing proof "Autonomous cars do not need 5G," as Gerhard Fettweis told the Brooklyn 5G Summit in May 2018.35 
+It will be years before millimetre wave can reach more than a small fraction of roads. Universal coverage would take decades. The millions of miles Google cars have driven leaves no doubt autonomous cars can drive safely using radar and lidar, although more work is needed. Karl-Heinz Laudan of Deutsche Telekom agrees. "Automotive does not need mmWaves," he told a European Union event.36 
+Dan Warren, now at Samsung, was the first to explain to me why cars couldn't be completely dependent on phone networks. "Will they freeze when they hit a dead spot? Of course not." 
+https://arxiv.org/ftp/arxiv/papers/1803/1803.11048.pdf http://wirelessone.news/mimo-2/1071-automotive-does-not-need-mmwaves-deutsche-telecom-professor-fettweis Quote confirmed by Fettweis in a September 2018 email. https://ec.europa.eu/digital-single-market/en/news/study-workshop-using-mm-waves-bands-deployment-5g-ecosystem-union  
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+IoT and 5G: Does anyone need millions of connections? 
+"Just about everything done with IoT today works on 4G." and "Bluetooth, Zigbee, and Z-Wave, along with Wi-Fi, will win much of the in-home IoT."37 
+It is true that 5G would be needed for millions of connections per square kilometre. It is hard to imagine a situation needing so many connections. It’s not impossible; perhaps every bullet on a battlefield would have an IoT transmitter to inform a command computer. 
+Adding 5G to a “thing” requires a module that is relatively expensive, power-hungry, and bulky. In addition, the telco charges for 5G while the other technologies are free. 
+There will be some uses for 5G IoT. But 5G rarely will be “required” for capacity or density. IoT connectivity demand will not yield large additional revenues for the telco, at least in the three years under consideration. 
+http://wirelessone.news/10-r/1203-all-current-iot-applications-work-well-with-4g-although-i-expect-change-in-the-future 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Current plans of selected carriers 
+Rajiv Suri, CEO Nokia says, “I’d say the cycle potentially will peak in about 10 years.”38 
+Verizon  • 2018: Fixed mmWave 5 cities 
+• 2019: Mobile, as soon as handsets are available 
+• 2020: First “material revenue” CFO Matt Ellis 
+• 2022: (~) 25% of the U.S. population 
+• 2027: Entire United States, some with alternate (mid-band) technologies39 
+Suppliers: Samsung, Ericsson 
+AT&T • 2018: mmWave 12 cities, mobile “puck.” Selling fixed wireless with LTE already. 
+• 2019–2023: Continued rollout, mmWave in limited hotspots, other in most of the network. 
+Schedule not publicly revealed, but CFO John Stephens has said at least for now he will aim investment more at FTTH. He does not believe the economics of a mmWave build for fixed work. 
+AT&T has told Wall Street it intends to turn off the landline network to perhaps 25% of homes and has lobbied Washington for permission. Timeline not known 
+Suppliers: Samsung, Ericsson, Nokia 
+Sprint • 2018 Installing gigabit gear across the country in 160 MHz of spectrum at 2.5 GHz, some 
+Massive MIMO. This can easily be upgraded with NR software. All decisions are pending the outcome of the T-Mobile merger. 
+T-Mobile U.S. • 2018: Rapidly building out low-band in 600 MHz nationwide. It will upgrade “the entire country” to 
+5G by 2020. It will be substantially slower than the T-Mobile LTE/LAA deploying across the country. PCMag tests show T-Mobile delivering 500 megabits in Manhattan. 
+In contrast, CTO Neville Ray has told the FCC 85% of “5G” connections will be less than 100 megabits and many less than 50 megabits, unless they obtain the Sprint 2.5 GHz spectrum. T-Mobile 600 MHz 
+https://www.fool.com/earnings/call-transcripts/2018/10/25/nokia-corporation-nok-q3-2018-earnings-conference.aspx https://www.cnbc.com/video/2018/08/15/verizon-ceo-hans-vestberg-on-5g-apple-tv-oath.html 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+uses 20 MHz, rather than the 60-140 MHz for most LTE deploying today. The “5G” claim is not untrue but in substance is pure marketing and political hype. 
+Korea Telecom, SK Telecom, LG • 2018: Offered limited demonstration at the Olympics, with beautiful high-resolution video. The 
+carriers will officially launch on December 1st. There is limited public information on how much will be mid-band and how much mmWave. Probably more mid-band. The very competitive Koreans likely will build very rapidly across the nation. 
+Suppliers: Samsung, Ericsson, Nokia. Huawei has been blocked in procurement of two of the three carriers. 
+Italy, Switzerland and perhaps Ireland Xavier Niel of Iliad/Free controls Salt in Switzerland, Eir in Ireland, and Iliad in Italy. He is well-informed about the possibilities of 5G. The equipment he is using can be easily upgraded. His choices are constrained by a newly aggressive Orange in France, the initial rollout in Italy, and turnarounds needed in Ireland and Switzerland. The market is punishing Xavi for the high cost of his investments, although I believe them likely to succeed. The banks would happily lend him enough to finance even high investment, but I believe he will continue carrying low debt on principle. 
+Niel has become a billionaire by providing all customers with the best experience at a very good price. No one predicted the 30 euro triple play in 2002 or the 20 euro 100 gigabyte mobile offering of a few years back. 
+I watch him closely. 
+Japan NTT DOCOMO CTO Seizo Onoe has been proselytizing 5G from the beginning. Two years ago he believed mmWave would become important 2023 or later, but he since has said he expects earlier deployments. 
+NTT does not need 5G mmWave to meet customer demand. 
+Masayashi Son’s Softbank is raising US$20 billion in an IPO, so has no funding shortage. Softbank and China Mobile in 2016 were first in the world to deploy Massive MIMO. Capacity at Softbank increased “up to ten times.” Even at the lower China Mobile estimate of a threefold increase, this was a remarkable improvement. Increased spectrum usage with further carrier aggregation also can add capacity. Softbank can probably meet demand with upgrades to 4G and a modest number of small cells. 
+Softbank and KDDI will likely do some 5G in the three-year period. In particular, any new cells will be 5G capable and the cost difference should be modest. 5G remains a magic term. If only for marketing reasons, companies like the Japanese are likely to some 5G. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Elisa Finland • 2018: Announced deployment as commercial. Elisa has modest initial plans but has proven innovative in the past. Finland has the highest per capita wireless usage in the world. 
+Supplier: Huawei 
+China Telecom, China Mobile, China Unicom • 2018: “Trials” in dozens of cities across the country. China Telecom’s “network commercial pilot” in Wuzhen for the World Internet Conference reached 1.7 gigabits per second. Ma Huateng of giant Tencent was excited and is developing a mobile VR application.40 China Mobile will have more than 1000 base stations.41  
+• 2019: “Non-commercial service.” Across the country. 10,000+ cells, possibly many more. China Mobile will use 2.5 GHz, Unicom and Telecom mostly 3.5 GHz. Unknown but probably modest percentage of mmWave. 
+• 2020: “Commercial service.” The government has mandated they rapidly be world leaders. China Mobile’s original plan was 2,000,000 cells by 2025. It may have moved up the schedule. Since towers are shared, the other companies are likely to also have a massive build. 
+• 2018–2025: Minister Miao Wei in 2017 called for “Edge network servers within 25 milliseconds of 90% of China” That is almost impossible, but the Chinese have done the impossible before. Over 300 million homes have been connected to fibre to the home in four years. Apparently, mostly trials and testing in 2019 and 2020. Rapidly deployment after 
+China Unicom and China Telecom may merge according to local press reports.42  
+Suppliers: Huawei, ZTE, Nokia Shanghai Bell, Ericsson and possibly Fiberhome/Datang. The government is committed to supporting ZTE, which may give the company priority. 
+India • 2019: Auction likely. Details disputed as I write in November 2018. May or may not include 
+mmWave. Bharti has asked that mmWave be postponed. 
+• 2020: Reliance Jio is prepared to upgrade 10,000+ cells to 5G. Jio has told the government it will 
+offer 5G within four months after approval. 
+• 2020–2025: India’s 4G/5G users will probably double from the current 400 million, as of late 2018. Jio is currently adding over ten million per month. Handset prices are critical to mass 
+https://fiber.ofweek.com/2018-11/ART-210007-8120-30280275.html  https://fiber.ofweek.com/2018-11/ART-210022-8120-30280767.html  Google translate from Chinese to English allows me to regularly read http://www.c114.com.cn, http://www.cww.net.cn, https://fiber.ofweek.com, https://tech.sina.com.cn/tele/ They generally have more reporting than English language sources except perhaps Economic Times in India. Much is excellent, including some that go well beyond the official story. Government speeches and proclamations are always covered. Some stories and opinions are aggregated from less reliable sources 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+acceptance in India. 5G handset prices probably will not reach India’s mass market requirement but the networks will ready if they do. 
+Suppliers: Samsung, with Korean government financing, is Jio’s primary supplier. All vendors are represented. 
+Germany • 2018: Telefónica Deutschland began a mmWave trial with Samsung. Deutsche Telekom 
+announced it will offer 5G across the country by 2025, five years after T-Mobile plans to cover “all of the U.S.” 
+• 2019: CTO Cayetano Carbajo of Telefónica has said it will begin building mmWave to 10 million 
+locations, about a quarter of Germany.43 Shortly afterward, the company on the financial call said a final decision would not be made before the results of the trial, including customer take rate, are evaluated. 
+• 2019–2021: Deutsche Telekom’s investor presentation predicted no increase in capex for three 
+years.44 Since DT intends to begin a large fibre rollout in that period, there is little left over for a large 5G investment. DT and Vodafone have said nothing about mmWave and probably intend mostly mid-band. If Telefónica is successful with mmWave, they may be required to match it. 
+• 2018–2022: Deutsche Telekom is building the most extensive cloud network inside a telco 
+system in the Western world. The DT/MobiledgeX servers will be placed within DT’s aggregation network, initially in 17 master hubs. To distinguish this from Edge Networks built in the local system nearer to the customer, I call this an Edge/Core network. 
+France • 2019–2020: Trials evolving into a modest commercial deployment. Christian Gacon, VP, Wireline 
+Networks and Datacenter Infrastructure, Orange Group, told me that France’s large FTTH networks make mmWave less attractive than it would be in Germany.45 Iliad/Free, building out the 4G network, is using equipment that can be easily upgraded. Free, Bouygues, and SFR/Altice are capital constrained. 
+Orange and regulator ARCEP are negotiating an extension of spectrum rights. The outcome will probably be more deployment in extreme rural areas. mmWave would be a natural choice in suitable terrain but I haven’t seen any discussion. 
+http://wirelessone.news/mimo-2/1197-gig-5g-Telefónica-s-plan-to-blow-open-the-german-market https://www.telekom.com/en/investor-relations/publications/financial-results#54586 Interview, 11 September 2018 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Arabian Peninsula Already in 2018, du and Etisalat in the United Arab Emirates (UAE), Qatar's Ooredoo and Saudi Arabia's STC have all announced “commercial” deployments of 5G. Several claimed to be the world’s first. As far as I know, all have so few connected they would be considered trials in other countries. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Who’s who 
+Phone makers 
+Apple Apple probably won’t ship many 5G phones until the fall of 2020. It is closely tied to Intel for 5G chips, which is a year late. Intel’s 10 nanometre process is comparable to TSMC’s 7 nanometre and was expected to be producing in 2018, but the date has been deferred to late 2019. 
+Apple is a fashion brand, with many very loyal followers. It makes great phones, but others do as well. In fashion, one day you are in and the next day you are out.46 For the moment, Apple is fading and lost over US$100 billion in market cap in the last week. The company is worth US$886 billion as I write. 
+Apple has been buying radio frequency parts from Avago, Skyworks, and Qorvo. Its stock price plummeted on the rumours that iPhone sales are disappointing. The Chinese government, horrified when the U.S. cut off ZTE, is supporting several Chinese companies to produce RF parts. Apple will be very interested if the Chinese can match the best in the west. 
+Samsung Samsung remains the leading handset maker although sales have collapsed in China and been weak in India. Samsung produces the chips on its own 7 nm EUV process, which may allow shipping a limited number of phones in the first half of 2019. 
+Press reports claim Samsung will soon announce the 5G phone but does not expect to sell many in 2019. 
+Samsung has invested over US$10 billion in plants in Vietnam which produce many Samsung phones. For now, U.S. tariffs are only a small factor for them. 
+Huawei Reports around the world proclaimed Huawei the second largest global smartphone manufacturer when it eclipsed Apple in sales. That’s true if you consider Oppo and Vivo separate companies despite their common owner. Huawei’s rise to the topic is remarkable, although not surprising if you know the company. 
+Most Huawei chips come from HiSilicon, which is currently testing 5G chips at TSMC. The chips require TSMC’s second 7 nm process which uses EUV (Extreme Ultraviolet) and will not be ready until mid-year 2019. 
+Heidi Klum http://www.bravotv.com/project-runway 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Oppo, Vivo, LG, Xiaomi, Lenovo/Motorola and several others All have announced they will use Qualcomm chips for 5G. Introductions are likely at MWC Barcelona in February. 
+The system vendors 
+There are five primary companies. None have pulled ahead of the pack. 
+Samsung In 2011, Jerry Pi wrote ‘An introduction to millimetre-wave mobile broadband systems’, the first paper about 5G mmWave as we understand it today. By the next year, hundreds of his colleagues were at work. Samsung’s demonstrations three years ago convinced Verizon CEO Lowell McAdam it works. It is supplying 5G capable radios to Verizon, Reliance Jio, and AT&T. Telefónica and Orange are in trials. 
+Samsung became an international player when Reliance Jio bought its radios to build an incredible network. After 25 months, Jio has 250 million 4G customers. Samsung equipment has performed reliably. It is now on the short list in nearly every major European carrier.47  
+Ericsson The company has raised its market share in 4G and 5G radios from 28% to 30%. It has increased R and D from 14.4% to 18.8% of sales. 
+Ericsson is shipping 5G gear to Verizon, AT&T, Korea Telecom, SK Telecom, and Telstra. It is playing a role in most European plans as well. 
+Huawei Huawei customers offered what they called “commercial service” before Verizon came to market: Elisa in Finland, Vodacom in Lesotho, as well as du and Etisalat in the United Arab Emirates (UAE), Qatar's Ooredoo and Saudi Arabia's STC. None of these services is as large as the “test programs” at major carriers. 
+Huawei’s US$15 billion research budget gives it the broadest line in telecom, from low end phones to high end core routers. It plays a leading role in standards, including 3GPP and ITU. Huawei-championed Polar codes are a major part of the 5G standard. De facto, nothing can be approved in standards if opposed by China. 
+Huawei owns a massive patent portfolio and adds thousands more every year. 
+http://wirelessone.news/mimo-2/956-it-s-5g-big-5-now-as-verizon-goes-for-samsung 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Nokia Cell phones were conceived first at Bell Labs, although Marty Cooper at Motorola built the first one that worked. Nokia brags about selling a complete system from end-to-end. It sponsors the Brooklyn 5G conference, the year’s most prestigious. 
+Nokia Shanghai Bell is a joint venture with the government and builds the 5G radios Nokia sells in the United States. Historically, Shanghai Bell was allocated 10% of the Chinese market. This year, CEO Rajeev Suri decided the prices offered were too low and backed away from a very large contract. 
+ZTE After the tussle with the U.S., ZTE is back, winning contracts, and showing a quarterly profit. The Chinese government is backing ZTE’s recovery; state banks provided US$10 billion of financing. While its research budget is not in the same range as Huawei’s, it has consistently designed equipment that has matched the giants for customer satisfaction. 
+ZTE will continue as a major factor in the market. 
+Mavenir and Parallel Wireless These two companies shocked the industry when they were chosen by Deutsche Telekom, Facebook, and other telcos to feature at the London TIP event. They are cooperating with the open source projects freely, unlike the giants who have been cautious. The TIP boost means they should be considered. 
+Chip makers 
+5G was designed for what could be done with the most advanced chips available in 2020-2021. Then the timeline was pulled up at the demand of carriers including Verizon, KT, and AT&T. Thousands of engineers are working to speed up chip delivery, but nine women cannot make a baby in one month. Nothing is commercially available yet. Few chips are expected until the second half of 2019. The chips require the most advanced 7 nm process, only available at TSMC and Samsung. 
+Qualcomm Qualcomm has demonstrated a working demo with Swisscom. 48 It offers a complete system: applications processor, baseband, radio frequency front end. The components are relatively small and may yield the most compact system. 
+http://wirelessone.news/10-r/1214-first-5g-phone-shown-at-swisscom 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Figure 3: Qualcomm’s baseband chip and radio frequency module 
+Source: Qualcomm phone companies have announced they will use Qualcomm chips. 
+Qualcomm uses both Samsung and TSMC as foundries. Likely limited in production until the second half of 2019. 
+Samsung Has announced but not publicly tested a chipset. Samsung 7 nm line has just officially gone into production. It makes both Qualcomm chips and Samsung’s own. Capacity is limited, especially until the second half of 2019. 
+Intel Expects to ship the XMM 8160 later in 2019. It does both 4G and 5G. Apple plans to use it for the iPhone 2020. Intel has spent untold billions trying to break into mobile with almost no success. 
+Figure 4: Intel 5G chip – Very limited 5G production capability until late 2019 
+© STL Partners 
+EXECUTIVE BRIEFING 
+Source: Intel 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+It is a full year behind because the 10 nm process is still not ready. (Intel’s 10 nm is considered the equal of TSMC’s and Samsung 7 nm.) This is the first time I can remember that Intel’s plants have not been ready on time. It has been equal to or better than any other chip manufacturer since falling behind Japan in the memory market in the 1980’s. 
+Intel has a strategic relationship with Unisoc-Spreadtrum, also working on a 5G chipset. 
+Huawei-HiSilicon Is actively testing the Kirin 990 5G chip at TSMC. It requires TSMC’s second generation 7 nm process so will be in limited supply until at least the second half of 2019. The Kirin 980 4G chip is in production at TSMC with seven billion transistors. Kirin 980 matches the best 4G chips from Qualcomm and Samsung. 
+HiSilicon is China’s largest chipmaker although it only sells to Huawei. It also produces state of the art network processors and many other chips. 
+MediaTek Has announced a 5G chipset for 2019 with few details. MediaTek has been the world #2 merchant chipmaker for mobile for several years. It sells to Amazon as well as phone makers. Recently, Qualcomm has been gaining market share with outstanding low and mid-range chips. 
+Broadcom/Avago, Skyworks, and Qorvo have been the leading suppliers of radio frequency parts to Apple and most others. Qualcomm’s new compact RF are likely to win share. The Chinese government is providing support to several up and coming RF chipmakers to avoid further U.S. blockades. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Estimated median download speed 
+< 450 megabits TBD TBD megabits megabits TBD 
+1000–2100 MHz 2300–2800 MHz 3300–4200 MHz 
+24–30 GHz – 53 GHz 
+Spectrum bands in the 5G era 
+Figure 5: Overview of 5G spectrum bands 
+Spectrum band 
+Range (relative) 
+Common band size 
+Mostly FDD or TDD? 
+Antenna size (relative) 
+Download antennas 
+450–1000 MHz 
+Best 
+20–40 MHz 
+FDD 
+Largest 
+20–60 MHz Varies MHz 
+FDD TDD TDD 
+Large Moderate Small 
+4–8 
+TDD 
+Small 
+Up to 1024 
+TDD 
+Very small 
+Up to 1024 
+Good Decent Decent if Massive MIMO 200–1000 metres TBD 
+400–800 MHz 400–800 MHz TBD 
+Source: STL Partners, Dave Burstein – 80 GHz 
+gigabits 
+Short 
+TDD 
+Very small 
+TBD 
+• Download speeds will vary and will be much lower at cell edge or behind obstructions. 
+• Below 3300 MHz, most signals will be aggregated across multiple bands for higher speeds, 
+currently peaking at 2,000 megabits shared. 
+• Band sizes vary. These are the most common figures. 
+• Speed estimates from Qualcomm, early 2018.49 
+• Because there is so much spectrum in millimetre, peak speeds go to 5-7 gigabits and above. Verizon controls 800 MHz in the crucial 28 GHz band, almost enough to block all others. 
+ Realistic customer speeds are a gigabit or more, confirmed by tests reported by Verizon 
+customers. 
+In spring, 2018, industry body 3GPP decided that any system using NR (New Radio) software can be called 5G. Soon after, T-Mobile U.S. declared its 600 MHz build “5G.” 5G in low and mid-band is 4G equipment with software but minimal capacity added. T-Mobile has told the FCC that 85% of its “5G” customers will receive less than 100 megabits and many less than 50 megabits. (It only has 20 MHz.) 
+http://bit.ly/450to1400 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+Even with the maximum 100 MHz of spectrum, low and mid-band 5G averages only about a third of the capacity of mmWave. The speed is little more than 4G today and sometimes even less. 
+Millimetre wave GHz is the most popular band of millimetre wave high-frequency spectrum. Verizon is selling to tens of thousands of homes and plans to pass 30 million homes in the first phase of the buildout. CFO Matt Ellis does not expect “material” sales until 2020. 
+Europe chose 26 GHz because satellites were using 28 GHz. Telefónica Deutschland is the only large mmWave plan publicly discussed in Europe. 
+Korea Telecom and China Mobile were pioneers in testing 28 GHz. However, China Mobile has announced most cells will be running mid-band 2.5 GHz. I believe the majority of Korean cells will also run mid-band, but few details are public. 
+There is little consumer gear available other than for 26-30 GHz: 
+• 39 GHz, some AT&T controlled, requires 50% more antennas than 28 GHz and is not as popular. 
+AT&T cutbacks in mmWave mean 39 GHz mostly will be on the shelf for years. 
+• 60 GHz, shared in the U.S., was developed by Intel as WiGig but didn't find a market. CCS, 
+Facebook, Qualcomm, perhaps DT, and others are reviving it, especially for backhaul. The FCC has allocated 14 GHz and with enough very small antennas, performance looks good. 
+• Other bands above 15 GHz lack equipment or supporters, so are years away. The U.S. FCC is about to auction 24 GHz but without mass-produced equipment 24 GHz is unlikely to have impact for years. 
+Figure 6: 5G experience overview 
+Peak data rate 
+Minimum 
+ITU IMT 2020 defined in 2017 • Downlink 20 Gbit/s • Uplink 10 Gbit/s Downlink user experienced rate 100Mbits/s 
+Delivery by Verizon 2018 Downlink peak ~5Gbit/s 
+300–1000 Mbit/s 
+After 3GPP great renaming N/A 
+Expected low- and mid-band T-Mobile Gbit/s or less 
+N/A 
+• 85% <100 Mbit/s in 
+About 3x 
+N/A 
+Compared with LTE 
+N/A 
+Latency – User plane Device sensitivity 
+1ms – 4ms 
+~10ms 
+N/A 
+N/A 
+1mn devices per km 
+N/A 
+N/A 
+Note: User experienced data rate "is the 5% point of the cumulative distribution function (CDF) of the user throughput,” or sometimes described as the speed at cell edge. Source: STL Partners, ITU definitions, DLA Piper 
+• Probable median 40–70 Mbit/s 19% to 52%, according to T-Mobile CTO Neville Ray Possibly ~10ms 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+• 3.3 GHz to 4.2 GHz is the emerging new band, sometimes referred to as C-Band or the 3.5 GHz band. Until recently, the reach was too limited for mobile broadband. It was mostly used for satellites. 
+• With Massive MIMO, the reach is improved and this has become the primary band for new 
+deployments. 
+• Different countries are making different parts of the band initially available. Germany just announced it will offer 3.4 GHz to 3.8 GHz. The U.S. is looking at 3.7 GHz to 4.2 GHz. 
+• The maximum and ideal spectrum allocation Is 100 MHz. 
+• Over $10 billion of auctions are completed, including Korea, Spain, and the UK. Germany, India, and most Europeans are finalizing plans for auctions. The unit in the illustration is set to go into commercial use at SK in Korea on December 1, 2018. 
+• 2.5 GHz to 3.0 GHz has seen limited use until recently but now is the core of Sprint's network 
+buildout in both 4G and 5G. Performance is much improved with Massive MIMO. 
+• 2.3 GHz is also now coming into wider use, including at AT&T. It is currently 4G. The smaller antennas of this 2.3 GHz make it better for Massive MIMO and 5G than lower frequencies. 
+• 1.8 GHz to 2.1 GHz have been primary bands in 3G and 4G. They will be re-farmed for 5G as 
+available. 4x4 MIMO is very effective, but Massive MIMO less so. As frequencies get lower, antennas get larger and sometimes impractical. These bands are designated FDD, which severely limits performance in Massive MIMO. 
+• 600 MHz to 1 GHz are ideal 4G bands with excellent reach and indoor coverage. Add NR 
+software, and these frequencies become "5G". The antennas are larger and FDD does not work well for Massive MIMO. 
+Actual latency is 10 ms from cell to phone Tests at AT&T, Verizon, and Swisscom have measured 10 ms latency back and forth from the phone to the radio rather than the 1-4 ms that is theoretically possible. Latency from the phone to the radio is meaningless for a user unless and until Edge servers are installed at the radio. What matters is the latency between the phone and the server it needs for connection. When you add the time from the radio to the relevant server, latency is 5 ms to 50+ ms more than the latency from the phone to the local cell. 
+What happened to the promises of 20 gigabits and 1 millisecond latency? The ITU IMT-2020 calls for 20 gigabit downloads. This is actually possible in mmWave. Huawei has a lab demo I’ve seen. But 20 gigabits would require more spectrum than any carrier is likely to have. Verizon has a huge spectrum position, about 800 MHz. They are topping out at 5-7 gigabits. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 millisecond latency works in the lab and should be commercially available in 2020 or 2021 if anyone wants to buy it. 
+However, no one is confident there will be a market demand to cover the costs of 1 ms. As I write in November 2018, I do not know any carrier that has firm plans to go beyond trials. Verizon and the other deployments are coming in at around 10 ms, cell site to receiver. 
+About a year ago, that would be all there was to say. Everything changed when the marketing people persuaded the industry at 3GPP to call almost every current product 5G if NR software was added. 
+The big gap is between mmWave (real gigabit) and the new mid-band 5G, at about a third of mmWave capacity. 
+The vendor merely needs to add some software, 5G NR, which raised capacity only modestly, 10%-
+20% at common frequency and perhaps 50% at the newly available 3.5 GHz bands. 
+The original ITU definition delivered a true gigabit to many customers. Under the new definition, T-Mobile U.S.A. calls some 50 megabit connections “5G.” That’s much slower than the 500 megabits T-Mobile is delivering here in Manhattan with “4G” LTE/LAA. 5G remains a magical name, but the actual networks in many cases are not great. This report looks at the reality of the networks being built, not the massive hot air from the companies. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+A preview of 5G smart strategies 
+5G mmWave adds more capacity and lowers the cost per bit. Former Verizon CEO Lowell McAdam (pictured) estimates the cost per bit as one-tenth the LTE cost. He chose to invest US$20 billion in mmWave to gain a competitive advantage. 
+How can carriers use 5G to make more money? 
+Which carriers should invest in mmWave? Which in low and mid-band? Which technology is best for which parts of the network? How fast should the new network be built? 
+Different carriers have made different decisions. Verizon is building as fast as it can, emphasizing mmWave. Almost all the Europeans are using mid-band. Some are building slowly. 
+Costs must be forecast. Verizon estimates mmWave will cost US$200-400 per home passed, about half the cost of FTTH. Verizon testing found mmWave rate/reach much better than expected. AT&T disagrees. Although it is about to launch a dozen 5G cities, the CFO is redirecting investment to FTTH at a rate of five million homes passed per year. 
+Figure 7: Cisco VNI forecast of wireless traffic growth between 2021–2022 
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Middle East and Africa
+Asia-Pacific Western Europe Latin America Central & East
+North America
+Europe
+Source: Cisco Virtual Networking Index 
+The U.S. is forecast at 30–31% growth, while growth rates in other countries are declining. 
+Demand must also be examined. “Everybody” knows that traffic carried is growing exponentially at 40%-50%. “Everybody” is again wrong. The rate of growth slows dramatically after most customers have adjusted to smartphones. The chart from the Cisco VNI shows growth falling to an estimated 30% in 2021. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+5G: THE FIRST THREE YEARS | DECEMBER 2018 
+None of the much discussed “use cases” are likely to reverse the growth rate decline in the next three or four years. 
+The cold equations of growth 
+Carrier aggregation, MIMO, Massive MIMO, and newly available spectrum, combined with a relatively modest number of small cells, can increase capacity six to twelve times at most carriers without raising capital spending or using mmWave. Most projections are that will be sufficient well into the next decade. 
+Those investing in mmWave are implicitly forecasting a higher growth rate, perhaps from sales of fixed wireless. Alternately, the robust network and higher speeds might draw customers from competitors. 
+Without field-proven data on rate/reach and customer take rate, these equations rest on assumptions that may prove wrong. 
+Ultimately, there is no killer app likely within the next three to four years – 5G is better and faster broadband. 
+© STL Partners 
+EXECUTIVE BRIEFING 
+Research 
+Consulting 
+Events 
+www.stlpartners.com 
