@@ -55,8 +55,9 @@ for index in range(start, limit + 1):
 
     soup = BeautifulSoup(html, 'lxml')
 
-    # Previously: books = soup.find_all('div', attrs = {"class": "zg_itemImmersion"})
-    books = soup.find_all('li', attrs = {"class": "zg-item-immersion"})
+    # More Previously: books = soup.find_all('div', attrs = {"class": "zg_itemImmersion"})
+    # Previously: books = soup.find_all('li', attrs = {"class": "zg-item-immersion"})
+    books = soup.find_all('div', attrs = {"class": "zg-grid-general-faceout"})
 
     if view_count:
         print('Number of Books on page ' + str(index) + ' = ' + str(len(books)))
@@ -65,8 +66,9 @@ for index in range(start, limit + 1):
         listed = []
         
         # name
-        setup = book.find("div", attrs = {"class": "p13n-sc-truncate p13n-sc-line-clamp-1"})
-        
+        # Previously: setup = book.find("div", attrs = {"class": "p13n-sc-truncate p13n-sc-line-clamp-1"})
+        setup = book.find("div", attrs = {"class": "_cDEzb_p13n-sc-css-line-clamp-1_1Fn1y"})
+
         if setup:
             listed.append((setup.text).strip())
         else:
@@ -91,8 +93,9 @@ for index in range(start, limit + 1):
             listed.append("not_available")
         
         # price
-        setup = book.find("span", attrs = {"class": "p13n-sc-price"})
-        
+        # Previously: setup = book.find("span", attrs = {"class": "p13n-sc-price"})
+        setup = book.find("span", attrs = {"class": "a-size-base a-color-price"})
+
         if setup:
             listed.append(setup.text.strip())
             # contains prefix u"\u20B9"
@@ -100,7 +103,8 @@ for index in range(start, limit + 1):
             listed.append("not_available")
         
         # number of ratings
-        setup = book.find("a", attrs = {"class": "a-size-small a-link-normal"})
+        # Previously: setup = book.find("a", attrs = {"class": "a-size-small a-link-normal"})
+        setup = book.find("a", attrs = {"class": "a-size-small"})
        
         if setup:
             listed.append((setup.text).strip())
