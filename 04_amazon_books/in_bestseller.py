@@ -25,7 +25,7 @@ agent = "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefo
 # Reference: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 
 start = 1
-limit = 3
+limit = 10
 view_url = True
 view_count = True
 
