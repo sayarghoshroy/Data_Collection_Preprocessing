@@ -10,11 +10,10 @@ from requests_html import HTMLSession
 
 csvfile = open('./output/in_book.csv', 'w', newline = '')
 
-make_table = csv.writer(csvfile, delimiter = ';',
-                        quotechar = '|', quoting = csv.QUOTE_MINIMAL)
+make_table = csv.writer(csvfile, delimiter = ';')
 
 make_table.writerow(["Name", "URL", "Author", "Price",
-                     "Number of Ratings", "Average Rating"])
+                     "Number of Ratings", "Average Rating", "Type"])
 
 
 def get_link(i):
@@ -48,6 +47,9 @@ for index in range(start, limit + 1):
     # Option 3
     try:
         html = urlopen(Request(url, headers = {'User-Agent': agent})).read()
+
+    # Drawback: Will not scroll down to include all 50 items on a page
+    # Workaround: Use selenium.webdriver to open the page and scroll down
     
     except Exception as E:
         print('Page ' + str(index) + ' Not Found', flush = True)
@@ -84,6 +86,7 @@ for index in range(start, limit + 1):
         
         # author
         setup = book.find("a", attrs = {"class": "a-size-small a-link-child"})
+
         # What about:
         # setup = book.find("div", attrs = {"class": "a-row a-size-small"})
 
@@ -104,7 +107,13 @@ for index in range(start, limit + 1):
         
         # number of ratings
         # Previously: setup = book.find("a", attrs = {"class": "a-size-small a-link-normal"})
-        setup = book.find("a", attrs = {"class": "a-size-small"})
+        
+        # Works with a few misses:
+        # setup = book.find("span", attrs = {"class": "a-size-small"})
+
+        # Better solution:
+        # Pick the second last instance of the following match
+        setup = book.find_all("span", attrs = {"class": "a-size-small"})[-2]
        
         if setup:
             listed.append((setup.text).strip())
@@ -116,6 +125,17 @@ for index in range(start, limit + 1):
 
         if setup and setup.text and (setup.text).strip() != "Prime":
             listed.append(setup.text)
+        else:
+            listed.append("not_available")
+
+
+        # Type: Hardbound or paperback
+
+        # Pick the last instance of the following match
+        setup = book.find_all("span", attrs = {"class": "a-size-small"})[-1]
+
+        if setup:
+            listed.append((setup.text).strip())
         else:
             listed.append("not_available")
         
